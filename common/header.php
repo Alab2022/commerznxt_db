@@ -1,11 +1,22 @@
 <nav class="navbar navbar-expand-lg bo-bottom remove-padding shadow-header">
   <div class="container-fluid bg-white">
-    <a class="navbar-brand" href="dashboard-se.php"><img src="img/logo-main.png" alt=""></a>
+    <a class="navbar-brand" href="dashboard.php"><img src="img/logo-main.png" alt=""></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="collapsibleNavbar">
       <ul class="navbar-nav mr5 main">
+      <li class="nav-item inner dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Inventory Analysis <span><svg xmlns="http://www.w3.org/2000/svg" width="8.015" height="4.758" viewBox="0 0 8.015 4.758">
+            <path id="_9042707_nav_arrow_down_icon_1_" data-name="9042707_nav_arrow_down_icon (1)" d="M6,9l2.947,2.947L11.894,9" transform="translate(-4.939 -7.939)" fill="none" stroke="#7d7d7d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          </svg></a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="stockoverview.php">Stock Overview</a></li>
+            <li><a class="dropdown-item" href="#">Product Analysis</a></li>
+            <li><a class="dropdown-item" href="#">Products to be reordered</a></li>
+            
+          </ul>
+        </li>
         <li class="nav-item inner dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">CRM <span><svg xmlns="http://www.w3.org/2000/svg" width="8.015" height="4.758" viewBox="0 0 8.015 4.758">
             <path id="_9042707_nav_arrow_down_icon_1_" data-name="9042707_nav_arrow_down_icon (1)" d="M6,9l2.947,2.947L11.894,9" transform="translate(-4.939 -7.939)" fill="none" stroke="#7d7d7d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
@@ -18,12 +29,22 @@
             <li><a class="dropdown-item" href="invoice.php">Invoice</a></li>
           </ul>
         </li>
-       
-        <li class="nav-item">
-          <a class="nav-link" href="my-sales-analysis.php">My Sales Analysis</a>
+        <li class="nav-item inner dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Purchase <span><svg xmlns="http://www.w3.org/2000/svg" width="8.015" height="4.758" viewBox="0 0 8.015 4.758">
+            <path id="_9042707_nav_arrow_down_icon_1_" data-name="9042707_nav_arrow_down_icon (1)" d="M6,9l2.947,2.947L11.894,9" transform="translate(-4.939 -7.939)" fill="none" stroke="#7d7d7d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          </svg></a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Stock Overview</a></li>
+            <li><a class="dropdown-item" href="#">Product Analysis</a></li>
+            <li><a class="dropdown-item" href="#">Products to be reordered</a></li>
+            
+          </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="task.php">Task</a>
+          <a class="nav-link" href="my-sales-analysis.php">Sales Analysis</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="task.php">User Management</a>
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
