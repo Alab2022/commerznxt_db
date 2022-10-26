@@ -13,7 +13,7 @@
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="stockoverview.php">Stock Overview</a></li>
             <li><a class="dropdown-item" href="productanalysis.php">Product Analysis</a></li>
-            <li><a class="dropdown-item" href="#">Products to be reordered</a></li>
+            <li><a class="dropdown-item" href="pdts-tobe-reordered.php">Products to be reordered</a></li>
             
           </ul>
         </li>
@@ -34,9 +34,9 @@
             <path id="_9042707_nav_arrow_down_icon_1_" data-name="9042707_nav_arrow_down_icon (1)" d="M6,9l2.947,2.947L11.894,9" transform="translate(-4.939 -7.939)" fill="none" stroke="#7d7d7d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
           </svg></a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Stock Overview</a></li>
-            <li><a class="dropdown-item" href="#">Product Analysis</a></li>
-            <li><a class="dropdown-item" href="#">Products to be reordered</a></li>
+            <li><a class="dropdown-item" href="vendors.php">Vendor</a></li>
+            <li><a class="dropdown-item" href="p-order.php">Product Order</a></li>
+            <li><a class="dropdown-item" href="v-payments.php">Payments</a></li>
             
           </ul>
         </li>

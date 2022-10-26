@@ -3,7 +3,7 @@
 <div class="container-fluid remove-margin bg-white">
   <div class="db-top-wrapper">
     <div class="left">
-      <h4>Product Analysis</h4>
+      <h4>Product to be re-ordered </h4>
       <ul class="breadcrumb">
         <li><a href="#">Dashboard</a></li>
         <li><a href="#">Task</a></li>
@@ -36,22 +36,9 @@
     <div class="col-md-4 sticky">
       <div class="card card-pd">
         <div class="card-heading fo-flx-sb-bl">
-          <h4>Categries On Offer</h4>
-
-        </div>
-      </div>
-      <div class="card card-pd">
-        <div class="card-heading fo-flx-sb-bl">
-          <h4>Top Selling Products</h4>
-
-        </div>
-      </div>
-      <div class="card card-pd">
-        <div class="card-heading fo-flx-sb-bl">
           <h4>Current Deals</h4>
 
         </div>
-
       </div>
       <div class="card card-pd">
         <div class="card-heading fo-flx-sb-bl">
@@ -68,14 +55,10 @@
             <div class="fo-flx align-center mt-1" style="white-space: nowrap;">
               <div>
                 <h6 class="d-flex align-center mr2">
-                  <div class="primary-dot mr0-5"></div>Sale Start Date
+                  <div class="primary-dot mr0-5"></div>Available Quantity
                 </h6>
               </div>
-              <div>
-                <h6 class="d-flex align-center mr2">
-                  <div class="sec-dot mr0-5"></div>Sale End Date
-                </h6>
-              </div>
+              
             </div>
           </div>
 
@@ -110,95 +93,69 @@
 
           <div class="row">
             <div class="col-md-4">
+              
               <div class="card card-pd">
-                <h4 class="list-heading">PowerHouse 100 mm
-                  Angle Grinder 670W
-                  PHAG100 with 6</h4>
+              <div class="float-offer primary">
+                <h4>20%</h4>
+              </div>
                 <div class="list-img-wrapper">
                   <img src="img/list-1.png" alt="">
                 </div>
-                <div class="list-details text-center">
+                <h4 class="list-heading">PowerHouse 100 mm
+                  Angle Grinder 670W
+                  PHAG100 with 6</h4>
+                <div class="list-details text-center mt-3">
 
                   <h6><strong>SKU:</strong> SKU: W3089GTA</h6>
                 </div>
-                <div class="usables mt-2">
-                  <div class="clip primary">
-
-                    <h6>
-                      <span><i class="bi bi-calendar mr0-5"></i></span> 12th OCT,2022 | <span><i class="bi bi-clock mr0-5"></i></span>11:35 PM
-                    </h6>
-                  </div>
-                  <div class="clip sub mt-2">
-
-                    <h6>
-                      <span><i class="bi bi-calendar mr0-5"></i></span> 12th OCT,2022 | <span><i class="bi bi-clock mr0-5"></i></span>11:35 PM
-                    </h6>
-                  </div>
-                </div>
+                
               </div>
 
 
             </div>
             <div class="col-md-4">
+              
               <div class="card card-pd">
-                <h4 class="list-heading">PowerHouse 100 mm
-                  Angle Grinder 670W
-                  PHAG100 with 6</h4>
+              <div class="float-offer primary">
+                <h4>20%</h4>
+              </div>
                 <div class="list-img-wrapper">
                   <img src="img/list-2.png" alt="">
                 </div>
-                <div class="list-details text-center">
+                <h4 class="list-heading">PowerHouse 100 mm
+                  Angle Grinder 670W
+                  PHAG100 with 6</h4>
+                <div class="list-details text-center mt-3">
 
                   <h6><strong>SKU:</strong> SKU: W3089GTA</h6>
                 </div>
-                <div class="usables mt-2"">
-                  <div class="clip primary">
-
-                    <h6>
-                      <span><i class="bi bi-calendar mr0-5"></i></span> 12th OCT,2022 | <span><i class="bi bi-clock mr0-5"></i></span>11:35 PM
-                    </h6>
-                  </div>
-                  <div class="clip sub mt-2">
-
-                    <h6>
-                      <span><i class="bi bi-calendar mr0-5"></i></span> 12th OCT,2022 | <span><i class="bi bi-clock mr0-5"></i></span>11:35 PM
-                    </h6>
-                  </div>
-                </div>
+                
               </div>
 
 
             </div>
             <div class="col-md-4">
+              
               <div class="card card-pd">
-                <h4 class="list-heading">PowerHouse 100 mm
-                  Angle Grinder 670W
-                  PHAG100 with 6</h4>
+              <div class="float-offer primary">
+                <h4>20%</h4>
+              </div>
                 <div class="list-img-wrapper">
                   <img src="img/list-3.png" alt="">
                 </div>
-                <div class="list-details text-center">
+                <h4 class="list-heading">PowerHouse 100 mm
+                  Angle Grinder 670W
+                  PHAG100 with 6</h4>
+                <div class="list-details text-center mt-3">
 
                   <h6><strong>SKU:</strong> SKU: W3089GTA</h6>
                 </div>
-                <div class="usables mt-2">
-                  <div class="clip primary">
-
-                    <h6>
-                      <span><i class="bi bi-calendar mr0-5"></i></span> 12th OCT,2022 | <span><i class="bi bi-clock mr0-5"></i></span>11:35 PM
-                    </h6>
-                  </div>
-                  <div class="clip sub mt-2">
-
-                    <h6>
-                      <span><i class="bi bi-calendar mr0-5"></i></span> 12th OCT,2022 | <span><i class="bi bi-clock mr0-5"></i></span>11:35 PM
-                    </h6>
-                  </div>
-                </div>
+                
               </div>
 
 
             </div>
+            
           </div>
           <div class="inner-content mt-3 ">
             <div class="distributor-header mb-3">
@@ -207,181 +164,64 @@
 
             <div class="row">
             <div class="col-md-4">
+              
               <div class="card card-pd">
-                <h4 class="list-heading">PowerHouse 100 mm
-                  Angle Grinder 670W
-                  PHAG100 with 6</h4>
+              <div class="float-offer primary">
+                <h4>20%</h4>
+              </div>
                 <div class="list-img-wrapper">
                   <img src="img/list-1.png" alt="">
                 </div>
-                <div class="list-details text-center">
+                <h4 class="list-heading">PowerHouse 100 mm
+                  Angle Grinder 670W
+                  PHAG100 with 6</h4>
+                <div class="list-details text-center mt-3">
 
                   <h6><strong>SKU:</strong> SKU: W3089GTA</h6>
                 </div>
-                <div class="usables mt-2">
-                  <div class="clip primary">
-
-                    <h6>
-                      <span><i class="bi bi-calendar mr0-5"></i></span> 12th OCT,2022 | <span><i class="bi bi-clock mr0-5"></i></span>11:35 PM
-                    </h6>
-                  </div>
-                  <div class="clip sub mt-2">
-
-                    <h6>
-                      <span><i class="bi bi-calendar mr0-5"></i></span> 12th OCT,2022 | <span><i class="bi bi-clock mr0-5"></i></span>11:35 PM
-                    </h6>
-                  </div>
-                </div>
+                
               </div>
 
 
             </div>
             <div class="col-md-4">
+              
               <div class="card card-pd">
-                <h4 class="list-heading">PowerHouse 100 mm
-                  Angle Grinder 670W
-                  PHAG100 with 6</h4>
+              <div class="float-offer primary">
+                <h4>20%</h4>
+              </div>
                 <div class="list-img-wrapper">
                   <img src="img/list-2.png" alt="">
                 </div>
-                <div class="list-details text-center">
+                <h4 class="list-heading">PowerHouse 100 mm
+                  Angle Grinder 670W
+                  PHAG100 with 6</h4>
+                <div class="list-details text-center mt-3">
 
                   <h6><strong>SKU:</strong> SKU: W3089GTA</h6>
                 </div>
-                <div class="usables mt-2"">
-                  <div class="clip primary">
-
-                    <h6>
-                      <span><i class="bi bi-calendar mr0-5"></i></span> 12th OCT,2022 | <span><i class="bi bi-clock mr0-5"></i></span>11:35 PM
-                    </h6>
-                  </div>
-                  <div class="clip sub mt-2">
-
-                    <h6>
-                      <span><i class="bi bi-calendar mr0-5"></i></span> 12th OCT,2022 | <span><i class="bi bi-clock mr0-5"></i></span>11:35 PM
-                    </h6>
-                  </div>
-                </div>
+                
               </div>
 
 
             </div>
             <div class="col-md-4">
+              
               <div class="card card-pd">
-                <h4 class="list-heading">PowerHouse 100 mm
-                  Angle Grinder 670W
-                  PHAG100 with 6</h4>
+              <div class="float-offer primary">
+                <h4>20%</h4>
+              </div>
                 <div class="list-img-wrapper">
                   <img src="img/list-3.png" alt="">
                 </div>
-                <div class="list-details text-center">
-
-                  <h6><strong>SKU:</strong> SKU: W3089GTA</h6>
-                </div>
-                <div class="usables mt-2">
-                  <div class="clip primary">
-
-                    <h6>
-                      <span><i class="bi bi-calendar mr0-5"></i></span> 12th OCT,2022 | <span><i class="bi bi-clock mr0-5"></i></span>11:35 PM
-                    </h6>
-                  </div>
-                  <div class="clip sub mt-2">
-
-                    <h6>
-                      <span><i class="bi bi-calendar mr0-5"></i></span> 12th OCT,2022 | <span><i class="bi bi-clock mr0-5"></i></span>11:35 PM
-                    </h6>
-                  </div>
-                </div>
-              </div>
-
-
-            </div>
-            <div class="col-md-4">
-              <div class="card card-pd">
                 <h4 class="list-heading">PowerHouse 100 mm
                   Angle Grinder 670W
                   PHAG100 with 6</h4>
-                <div class="list-img-wrapper">
-                  <img src="img/list-1.png" alt="">
-                </div>
-                <div class="list-details text-center">
+                <div class="list-details text-center mt-3">
 
                   <h6><strong>SKU:</strong> SKU: W3089GTA</h6>
                 </div>
-                <div class="usables mt-2">
-                  <div class="clip primary">
-
-                    <h6>
-                      <span><i class="bi bi-calendar mr0-5"></i></span> 12th OCT,2022 | <span><i class="bi bi-clock mr0-5"></i></span>11:35 PM
-                    </h6>
-                  </div>
-                  <div class="clip sub mt-2">
-
-                    <h6>
-                      <span><i class="bi bi-calendar mr0-5"></i></span> 12th OCT,2022 | <span><i class="bi bi-clock mr0-5"></i></span>11:35 PM
-                    </h6>
-                  </div>
-                </div>
-              </div>
-
-
-            </div>
-            <div class="col-md-4">
-              <div class="card card-pd">
-                <h4 class="list-heading">PowerHouse 100 mm
-                  Angle Grinder 670W
-                  PHAG100 with 6</h4>
-                <div class="list-img-wrapper">
-                  <img src="img/list-2.png" alt="">
-                </div>
-                <div class="list-details text-center">
-
-                  <h6><strong>SKU:</strong> SKU: W3089GTA</h6>
-                </div>
-                <div class="usables mt-2"">
-                  <div class="clip primary">
-
-                    <h6>
-                      <span><i class="bi bi-calendar mr0-5"></i></span> 12th OCT,2022 | <span><i class="bi bi-clock mr0-5"></i></span>11:35 PM
-                    </h6>
-                  </div>
-                  <div class="clip sub mt-2">
-
-                    <h6>
-                      <span><i class="bi bi-calendar mr0-5"></i></span> 12th OCT,2022 | <span><i class="bi bi-clock mr0-5"></i></span>11:35 PM
-                    </h6>
-                  </div>
-                </div>
-              </div>
-
-
-            </div>
-            <div class="col-md-4">
-              <div class="card card-pd">
-                <h4 class="list-heading">PowerHouse 100 mm
-                  Angle Grinder 670W
-                  PHAG100 with 6</h4>
-                <div class="list-img-wrapper">
-                  <img src="img/list-3.png" alt="">
-                </div>
-                <div class="list-details text-center">
-
-                  <h6><strong>SKU:</strong> SKU: W3089GTA</h6>
-                </div>
-                <div class="usables mt-2">
-                  <div class="clip primary">
-
-                    <h6>
-                      <span><i class="bi bi-calendar mr0-5"></i></span> 12th OCT,2022 | <span><i class="bi bi-clock mr0-5"></i></span>11:35 PM
-                    </h6>
-                  </div>
-                  <div class="clip sub mt-2">
-
-                    <h6>
-                      <span><i class="bi bi-calendar mr0-5"></i></span> 12th OCT,2022 | <span><i class="bi bi-clock mr0-5"></i></span>11:35 PM
-                    </h6>
-                  </div>
-                </div>
+                
               </div>
 
 

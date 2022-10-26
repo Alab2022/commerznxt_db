@@ -54,7 +54,7 @@
           <h4>Offer Products</h4>
           <div class="right d-flex" style="white-space: nowrap;">
             <div class="form-group ms-2 d-flex align-center">
-              <h6 class="mr1" style="margin-bottom: 0;">Showing 50 of 200</h6>
+              <h6 class="mr1" style="margin-bottom: 0;">Show</h6>
               <div class="dropdown">
                 <span><i class="bi bi-chevron-down"></i></span>
                 <button class="btn btn-secondary dropdown-toggle fl-dd" type="button" data-bs-toggle="dropdown" aria-expanded="false">
