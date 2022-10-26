@@ -90,7 +90,9 @@
                 <p class="text-green">2021 (+80%) <span><img class="mr1" src="img/up.svg" alt=""></span></p>
                 <p class="text-orange">2022 ( 60%)</span> <img class="mr0-5" src="img/upor.svg" alt=""></span></p>
               </div>
+              
             </div>
+            <div id="chartcondb"></div>
           </div>
 
           <div class="row" style="margin-top: 25px;">
@@ -117,7 +119,13 @@
                   <p>5 Waiting for Approval</p>
                 </div>
               </div>
+              <div class="card card-pd">
+                <div class="card-heading fo-flx-sb-bl">
+                  <h4>Top 5 Geography Sales</h4>
 
+                </div>
+                <div id="geography"></div>
+              </div>
             </div>
             <div class="col-md-6">
               <div class="card card-pd">
@@ -125,22 +133,12 @@
                   <h4>Purchase Overview</h4>
                   <p class="text-green"><span><img class="mr0-5" src="img/profile.svg" alt=""></span>Vendors 50</p>
                 </div>
+                <div id="semiDonut"></div>
               </div>
-
-            </div>
-            <div class="col-md-6">
-              <div class="card card-pd">
-                <div class="card-heading fo-flx-sb-bl">
-                  <h4>Top 5 Geography Sales</h4>
-
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6">
               <div class="card card-pd">
                 <div class="card-heading fo-flx-sb-bl">
                   <h4>Recent Notes</h4>
-                  <a class="faded-button" href="">View All</a>
+                  <a class="btn btn-light btn-sm" href="">View All</a>
                 </div>
                 <div class="notes">
                   <div class="content fo-flx mt-3">
@@ -163,13 +161,14 @@
                 </div>
               </div>
             </div>
+
           </div>
 
 
 
         </div>
         <div class="col-md-4">
-          <div class="card card-pd fadeblue">
+          <div class="card card-pd fadeblue fadeblue-pad">
             <div class="t1 fo-flx-center">
               <p>Total Revenue</p>
               <h6>2022</h6>
@@ -185,11 +184,13 @@
               <h4>Sales Tracker</h4>
               <div class="fo-flx-center">
                 <h6>2022</h6>
-                <a class="faded-button" href="">More</a>
+                <a class="btn btn-light btn-sm ms-2" href="">More</a>
               </div>
             </div>
-
-            <div class="chart-detail-wrapper mt-3">
+            <div class="chart-body">
+              <div id="salesTracker">FusionCharts XT will load here!</div>
+            </div>
+            <div class="chart-detail-wrapper">
               <div class="chart-details fo-flx-js-sb bo-bottom" style="padding-bottom: 15px;">
                 <div class="left fo-flx">
                   <div class="profile-sec mr1">
@@ -205,7 +206,7 @@
                   <img src="img/lo-up-or.svg" alt="">
                 </div>
               </div>
-              <div class="chart-details fo-flx-js-sb mt-3">
+              <div class="chart-details fo-flx-js-sb mt-2">
                 <div class="left fo-flx">
                   <div class="profile-sec mr1">
                     <img src="img/loc.svg" alt="">

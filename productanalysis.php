@@ -34,11 +34,12 @@
 <div class="container-fluid page-inner">
   <div class="row">
     <div class="col-md-4 sticky">
-      <div class="card card-pd">
+      <div class="card card-pd-left">
         <div class="card-heading fo-flx-sb-bl">
           <h4>Categries On Offer</h4>
 
         </div>
+        <div id="CategoryOnOffer">FusionCharts XT will load here!</div>
       </div>
       <div class="card card-pd">
         <div class="card-heading fo-flx-sb-bl">

@@ -93,7 +93,9 @@ align-items: center;
   width: 100%;
   text-decoration: none;
 }
-
+.db-content-top .card-pd{
+  padding: 25px 14px;
+}
 .mr0-5 {
   margin-right: 5px;
 }
@@ -690,7 +692,9 @@ ul.breadcrumb li a:hover {
 .fadeblue {
   background: #63719C !important;
 }
-
+.fadeblue-pad {
+  padding: 47px 30px;
+}
 .solidblue {
   background: #429EBD;
 }
@@ -829,6 +833,8 @@ a.faded-button {
   font-size: 18px;
   color: #929292;
   font-weight: 600;
+  margin-bottom: 0px;
+  margin-top: 8px;
 }
 
 .wr-right h1 {
