@@ -1599,3 +1599,34 @@ h4.list-heading {
   text-align: center;
   font-weight: 600;
 }
+.denoter.hold {
+  background: #FFB13D;
+  margin: auto;
+  width: 30px;
+  margin-top: 10px !important;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+.denoter.hold h6 {
+  margin-bottom: 0;
+  color: #fff;
+  font-size: 14px !important;
+}
+.primary-dot {
+  background: #F98F45;
+  width: 12px;
+  height: 12px;
+  border-radius: 50px;
+}
+.sec-dot{
+  background: #97CDCD;
+  width: 12px;
+  height: 12px;
+  border-radius: 50px;
+}
+.card-heading h6{
+  margin-bottom: 0;
+}

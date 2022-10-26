@@ -12,7 +12,7 @@
           </svg></a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="stockoverview.php">Stock Overview</a></li>
-            <li><a class="dropdown-item" href="#">Product Analysis</a></li>
+            <li><a class="dropdown-item" href="productanalysis.php">Product Analysis</a></li>
             <li><a class="dropdown-item" href="#">Products to be reordered</a></li>
             
           </ul>

@@ -198,9 +198,79 @@
                 </h6>
               </div>
             </div>
+            <div class="col-md-4">
+              <div class="card card-pd">
+                <h4 class="list-heading">PowerHouse 100 mm
+                  Angle Grinder 670W
+                  PHAG100 with 6</h4>
+                <div class="list-img-wrapper">
+                  <img src="img/list-1.png" alt="">
+                </div>
+                <div class="list-details text-center">
+                  <h6><strong>Brand:</strong> PowerHouse</h6>
+                  <h6><strong>SKU:</strong> W3089GTA</h6>
+                  <h6><strong>Category:</strong> Power Tools</h6>
+                </div>
+                <h6 class="text-primary text-center mt-3">
+                  Out Of stock
+                </h6>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card card-pd">
+                <h4 class="list-heading">PowerHouse 100 mm
+                  Angle Grinder 670W
+                  PHAG100 with 6</h4>
+                <div class="list-img-wrapper">
+                  <img src="img/list-2.png" alt="">
+                </div>
+                <div class="list-details text-center">
+                  <h6><strong>Brand:</strong> PowerHouse</h6>
+                  <h6><strong>SKU:</strong> W3089GTA</h6>
+                  <h6><strong>Category:</strong> Power Tools</h6>
+                </div>
+                <h6 class="text-primary text-center mt-3">
+                  Out Of stock
+                </h6>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card card-pd text-center">
+                <h4 class="list-heading">PowerHouse 100 mm
+                  Angle Grinder 670W
+                  PHAG100 with 6</h4>
+                <div class="list-img-wrapper">
+                  <img src="img/list-3.png" alt="">
+                </div>
+                <div class="list-details ">
+                  <h6><strong>Brand:</strong> PowerHouse</h6>
+                  <h6><strong>SKU:</strong> W3089GTA</h6>
+                  <h6><strong>Category:</strong> Power Tools</h6>
+                </div>
+                <div class="denoter text-center mt-3 hold">
+                  <h6>1</h6>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
+        <div class="fo-flx-center">
+              <h6>Showing 50 of 200</h6>
+              <nav aria-label="Page navigation example">
 
+                <ul class="pagination justify-content-end">
+                  <li class="page-item">
+                    <a class="page-link"> <span><i class="bi bi-chevron-left"></i></span> Previous</a>
+                  </li>
+                  <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                  <li class="page-item"><a class="page-link" href="#">2</a></li>
+                  <li class="page-item"><a class="page-link" href="#">3</a></li>
+                  <li class="page-item">
+                    <a class="page-link" href="#">Next <span><i class="bi bi-chevron-right"></i></span></a>
+                  </li>
+                </ul>
+              </nav>
+            </div>
       </div>
 
     </div>
