@@ -664,7 +664,7 @@ h6 strong{
 #chartcon{
   width: auto;
   height: auto;
-  padding: 20px;
+  padding: 20px 0px;
 }
 .highcharts-figure,
 .highcharts-data-table table {
@@ -1013,6 +1013,35 @@ g.raphael-group-55-pie-label text{
   min-height: 400px;
   padding-right: 10px;
 }
+.chart-detail-wrapper {
+  margin-top: -38px;
+  z-index: 1;
+  padding: 0px 10px;
+}
+.card-pd-left{
+  padding: 25px 0px;
+}
+.card-pd-left .card-heading h4 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #3E3E3E;
+  margin-bottom: 0;
+  margin-left: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* --------------------------Media Query Portrait --------------------------*/
 
 /* // Medium devices (tablets, 768px and up) */

@@ -33,25 +33,26 @@
 </div>
 <div class="container-fluid page-inner">
   <div class="row">
-    <div class="col-md-4 sticky">
+    <div class="col-md-4 ">
       <div class="card card-pd">
-        <div class="card-heading fo-flx-sb-bl">
+        <div class="card-heading fo-flx-sb-bl mb-3">
           <h4>Top Selling Products</h4>
 
         </div>
+        <div id="topSelling"></div>
       </div>
       <div class="card card-pd">
-        <div class="card-heading fo-flx-sb-bl">
-          <h4>Stock</h4>
+        <div class="card-heading fo-flx-sb-bl mb-3">
+          <h4>Offer Products</h4>
 
         </div>
-
+        <div id="offerProduct"></div>
       </div>
     </div>
     <div class="col-md-8">
       <div class="card card-pd">
         <div class="card-heading fo-flx-sb-bl">
-          <h4>Offer Products</h4>
+          <h4>Stock</h4>
           <div class="right d-flex" style="white-space: nowrap;">
             <div class="form-group ms-2 d-flex align-center">
               <h6 class="mr1" style="margin-bottom: 0;">Showing 50 of 200</h6>
