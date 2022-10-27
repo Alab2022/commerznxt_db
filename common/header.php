@@ -35,7 +35,7 @@
           </svg></a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="vendors.php">Vendor</a></li>
-            <li><a class="dropdown-item" href="p-order.php">Product Order</a></li>
+            <li><a class="dropdown-item" href="p-orders.php">Product Order</a></li>
             <li><a class="dropdown-item" href="v-payments.php">Payments</a></li>
             
           </ul>

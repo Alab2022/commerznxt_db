@@ -33,18 +33,8 @@
         <i class="bi bi-search"></i>
         <input type="text" class="form-control" placeholder="Search" />
       </div>
-      <div class="dropdown ms-2">
-        <span><i class="bi bi-chevron-down"></i></span>
-        <button class="btn btn-secondary dropdown-toggle fl-dd" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-          CSV
-        </button>
-        <ul class="dropdown-menu">
-          <li><a class="dropdown-item" href="#">10</a></li>
-          <li><a class="dropdown-item" href="#">20</a></li>
-          <li><a class="dropdown-item" href="#">30</a></li>
-        </ul>
-      </div>
-      <button class="btn btn-primary ms-2"><span><img src="img/share.svg" alt=""></span> Export</button>
+     
+      <a href="" class="btn btn-primary ms-2"><span><img class="mr1" src="img/ad-invoice.svg" alt=""></span> Create Payment</a>
 
     </div>
   </div>
@@ -57,77 +47,67 @@
         <table id="tb-border-radius" class="table">
           <thead>
             <tr>
-              <th>Customer</th>
-              <th>Invoice No</th>
-              <th>Invoice Date</th>
-              <th>Order Value</th>
-              <th>Amount Received</th>
-              <th>Pending Payment</th>
-              <th>Credit Period</th>
-              <th>Credit Days Left</th>
+              <th>Receipt No</th>
+              <th>Vendor Name</th>
+              <th>Purchase Order no</th>              
+              <th>Last Payment Date</th>
+              <th>Bill Amount</th>
+              <th>Balance</th>
+              <th>Action</th>
             </tr>
           </thead>
           <tbody>
             <tr>
+              <td>REC-001</td>
               <td>Adam</td>
-              <td>INV-01</td>
-              <td>08 Oct 2022 </td>
-              <td>5000</td>
+              <td>PO - 245/4357</td>
+              <td>06/10/2022</td>
               <td>22500</td>
-              <td>2500</td>
-              <td>30Days</td>
-              <td>15</td>
+              <td>500</td>
+              <td><i class="bi bi-eye-fill"></i></td>
+              
             </tr>
             <tr>
+              <td>REC-001</td>
               <td>Adam</td>
-              <td>INV-01</td>
-              <td>08 Oct 2022 </td>
-              <td>5000</td>
+              <td>PO - 245/4357</td>
+              <td>06/10/2022</td>
               <td>22500</td>
-              <td>0</td>
-              <td>30Days</td>
-              <td>-</td>
+              <td>500</td>
+              <td><i class="bi bi-eye-fill"></i></td>
+              
             </tr>
             <tr>
+              <td>REC-001</td>
               <td>Adam</td>
-              <td>INV-01</td>
-              <td>08 Oct 2022 </td>
-              <td>5000</td>
+              <td>PO - 245/4357</td>
+              <td>06/10/2022</td>
               <td>22500</td>
-              <td>2500</td>
-              <td>30Days</td>
-              <td>15</td>
+              <td>500</td>
+              <td><i class="bi bi-eye-fill"></i></td>
+              
             </tr>
             <tr>
+              <td>REC-001</td>
               <td>Adam</td>
-              <td>INV-01</td>
-              <td>08 Oct 2022 </td>
-              <td>5000</td>
+              <td>PO - 245/4357</td>
+              <td>06/10/2022</td>
               <td>22500</td>
-              <td>0</td>
-              <td>30Days</td>
-              <td>-</td>
+              <td>500</td>
+              <td><i class="bi bi-eye-fill"></i></td>
+              
             </tr>
             <tr>
+              <td>REC-001</td>
               <td>Adam</td>
-              <td>INV-01</td>
-              <td>08 Oct 2022 </td>
-              <td>5000</td>
+              <td>PO - 245/4357</td>
+              <td>06/10/2022</td>
               <td>22500</td>
-              <td>2500</td>
-              <td>30Days</td>
-              <td>15</td>
+              <td>500</td>
+              <td><i class="bi bi-eye-fill"></i></td>
+              
             </tr>
-            <tr>
-              <td>Adam</td>
-              <td>INV-01</td>
-              <td>08 Oct 2022 </td>
-              <td>5000</td>
-              <td>22500</td>
-              <td>0</td>
-              <td>30Days</td>
-              <td>-</td>
-            </tr>
+          
 
           </tbody>
         </table>

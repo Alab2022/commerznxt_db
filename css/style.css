@@ -641,7 +641,6 @@ ul.breadcrumb li a:hover {
 }
 .vertical-div{
   width: 1px;
-  height: 20px;
   border-right: 1px solid #c6c6c6;
 }
 .db-icn-bg {
@@ -1778,7 +1777,8 @@ color: #fff;
 }
 .ven-id p {
   text-align: right;
-  margin: 20px 25px -10px 0px;
+  margin-bottom: 0px;
+  margin-right: 10px;
 }
 .address-wrap {
   border: 1px solid #E6E6E6;
@@ -1805,5 +1805,35 @@ color: #fff;
 .address-wrap .form-check {
   padding-left: 12px;
   margin-top: 20px;
+}
+.ven-id {
+  padding: 0 25px;
+  display: flex;
+  padding-top: 20px !important;
+  justify-content: right;
+  align-items: center;
+}
+.form-flex .form-group.cp-w {
+  width: 34% !important;
+}
+.form-flex .form-group.cp-w1 {
+  width: 60.5% !important;
+}
+.hei input{
+  height: 38px !important;
+}
+.date-wrap {
+  background: #F3F3F3;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.date-wrap h6{
+  margin-bottom: 0;
+}
+.date-wrap i.bi {
+  color: #63719C;
+}
+.fade-out{
+  background-color: #F3F3F3;
 }
 /* Purchase css ends here///////////////////////////////////////////////////////////////// */

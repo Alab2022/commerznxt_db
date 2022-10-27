@@ -33,15 +33,20 @@
 <div class="container-fluid page-inner">
   <div class="inner-page">
     <div class="db-content-top fo-flx-js-sb">
-      <div class="card card-pd fo-flx">
+    <div class="card">
+      <a href="p-orders.php" class="card-pd">
+          <div class="fo-flx ">
         <div class="icon-wrap orange">
           <img src="img/db1.svg" alt="">
         </div>
         <div class="content">
-          <h3>336</h3>
+          <h3>38K</h3>
           <h6>Total No.Of Orders</h6>
         </div>
+          </div>
+      </a>
       </div>
+     
       <div class="card card-pd fo-flx">
         <div class="icon-wrap merun">
           <img src="img/db2.svg" alt="">
@@ -98,6 +103,7 @@
           <div class="row" style="margin-top: 25px;">
             <div class="col-md-6">
               <div class="progressbar-wrapper fo-flx-js-sb">
+                
                 <div class="card card-pd">
                   <h3>38</h3>
                   <h6>Quotes</h6>
