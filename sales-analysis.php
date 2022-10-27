@@ -48,7 +48,8 @@
           <div class="card-body">
             <div class="db-top-wrapper-sub">
           <h5>Ecommerce Sales</h5>
-          <div id="result"></div>
+          <div><button type="button" class="btn btn-primary ms-2 filter-bg" data-bs-toggle="offcanvas" data-bs-target="#ecomfilter" aria-controls="offcanvasRight">
+            <i class="bi bi-funnel-fill"></i></button></div>
           </div>
 <table id="table-sparkline">
   <thead>
@@ -534,6 +535,91 @@
   <div class="tab-pane fade show " id="dirsale" role="tabpane2" aria-labelledby="dirsale-tab">dirsale</div>
   <div class="tab-pane fade show " id="indsale" role="tabpane3" aria-labelledby="indsale-tab">indsale</div>
 </div>
+<!-- Ecom filter offcanvas -->
+<div class="offcanvas offcanvas-end" tabindex="-1" id="ecomfilter" aria-labelledby="offcanvasRightLabel">
+      <div class="offcanvas-header">
+        <h5 id="offcanvasRightLabel">Filter By</h5>
+        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
+      <div class="offcanvas-body">
+       
 
+        <div class="accordion" id="accordionExample">
+          
+          <div class="accordion-item">
+            
+
+              <div class="accordion-body">
+                
+                <div class="form-group">
+                  <label for="">Status</label>
+                  <div class="dropdown">
+                    <span><i class="bi bi-chevron-down"></i></span>
+                    <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Category
+                    </button>
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" href="#">Action</a></li>
+                      <li><a class="dropdown-item" href="#">Another action</a></li>
+                      <li><a class="dropdown-item" href="#">Something else here</a></li>
+                    </ul>
+                  </div>
+                </div>
+                
+                
+                
+                  <div class="form-group">
+                    <label for="">Geography</label>
+                    <div class="dropdown">
+                      <span><i class="bi bi-chevron-down"></i></span>
+                      <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Brand
+                      </button>
+                      <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="#">Action</a></li>
+                        <li><a class="dropdown-item" href="#">Another action</a></li>
+                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <label for="">Channel</label>
+                    <div class="dropdown">
+                      <span><i class="bi bi-chevron-down"></i></span>
+                      <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Out of Stock
+                      </button>
+                      <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="#">Action</a></li>
+                        <li><a class="dropdown-item" href="#">Another action</a></li>
+                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="col">
+                  
+        <label for="exampleFormControlTextarea1">Target Date</label>
+		<div class="input-group date" id="datepicker">
+        <input type="text" class="form-control shadow-cs" id="date"/>
+        <span class="input-group-append shadow-cs ">
+          <span class="input-group-text bg-light d-block dp_icon">
+		  <i class="bi bi-calendar-week-fill"></i>
+          </span>
+        </span>
+      </div>
+                  
+        </div>
+                
+              </div>
+          
+          </div>
+
+        </div>
+      </div>
+        <div class="offcanvas-footer fil-pd">
+        <button type="button" class="btn btn-secondary sec-custom">Clear</button>
+        <button type="button" class="btn btn-primary" data-bs-toggle="offcanvas" data-bs-target="#ecomfilter" aria-controls="offcanvasRight">Apply</button>
+      </div>
+      </div>
 
 <?php include('common/footer.php'); ?>

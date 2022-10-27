@@ -39,12 +39,14 @@
           <h4>Current Deals</h4>
 
         </div>
+        <div id="CurrentDeals">FusionCharts XT will load here!</div>
       </div>
       <div class="card card-pd">
         <div class="card-heading fo-flx-sb-bl">
           <h4>Top Sale Products</h4>
 
         </div>
+        <div id="TopSaleProducts">FusionCharts XT will load here!</div>
       </div>
     </div>
     <div class="col-md-8">

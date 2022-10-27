@@ -829,6 +829,7 @@ h6 strong{
 .offcanvas {
   border: 0!important;
   box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 15%);
+  padding: 0;
 }
 .modal-header, .modal-footer, .offcanvas-header {
   padding:15px 20px 10px;
@@ -900,7 +901,7 @@ input[type="radio"]:checked + label:after {
     text-align: center;
 }
 /* Custom checkbox */
-input[type="checkbox"] + label {
+input[type="checkbox"].special + label {
   display: inline-block;
   cursor: pointer;
   position: relative;
@@ -908,7 +909,7 @@ input[type="checkbox"] + label {
   margin-right: 15px;
   font-size: 13px;
 }
-input[type="checkbox"] + label:before {
+input[type="checkbox"].special + label:before {
   content: "";
   display: block;
   width: 22px;
@@ -921,11 +922,11 @@ input[type="checkbox"] + label:before {
   background-color: #fff;
   border-radius: 5px;
 }
-input[type="checkbox"] {
+input[type="checkbox"].special {
   display: none !important;
   *display: inline;
 }
-input[type="checkbox"]:checked + label:after {
+input[type="checkbox"].special:checked + label:after {
   content: "✔";
   font-size: 20px;
   line-height: 20px;
@@ -1028,12 +1029,30 @@ g.raphael-group-55-pie-label text{
   margin-bottom: 0;
   margin-left: 25px;
 }
-
-
-
-
-
-
+.list-details h6, .list-details h4{
+  margin: 0;
+}
+.accordion-body label {
+  font-size: 14px;
+  font-weight: 700;
+  color: #48626c;
+  margin-bottom: 2px;
+}
+.prof-al-center.sml {
+  height: 227px;
+}
+.form-switch .form-check-input{
+  padding: 12px;
+  width: 4em;
+  margin-right: 10px;
+}
+.accordion-body h5{
+  font-weight: 700;
+  margin-bottom: 0;
+}
+.text-muted{
+  color: #9e9e9e!important;
+}
 
 
 

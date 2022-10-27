@@ -44,7 +44,7 @@
           <a class="nav-link" href="my-sales-analysis.php">Sales Analysis</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="task.php">User Management</a>
+          <a class="nav-link" href="user-management.php">User Management</a>
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
