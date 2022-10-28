@@ -198,7 +198,7 @@ dataSource: {
         "showLegend": "1",
         "showLegendValue": "0",
         "legendPosition": "right",
-        "defaultCenterLabel": "Total Sales : 100%",
+        "defaultCenterLabel": "Total Categories : 100",
         "centerLabel": "Sales $label: $value%",
         "centerLabelBold": "1",
         "showTooltip": "0",
@@ -207,7 +207,205 @@ dataSource: {
         "valuePosition":"inside",
         "labelPosition":"inside",
         "showlabels": "0",
-        "palettecolors": "B57700,E89900,F7AD19,A6A6A6,808080"
+        "palettecolors": "B57700,E89900,F7AD19,A6A6A6,808080",
+        "showplotBorder": "1",
+    "plotHighlightEffect": "fadeout|alpha=60, valueBgColor=#ff0000, valueBorderColor=#3a4660, valueFontColor=#000000"
+
+    },
+    "data": [{
+        "label": "Abrasives",
+        "value": "30"
+    }, {
+        "label": "Fasteners",
+        "value": "10"
+    }, {
+      "label": "Fleet Maintenance",
+      "value": "20"
+  }, {
+    "label": "Hand Tools",
+    "value": "40"
+}, {
+  "label": "Fasteners",
+  "value": "70"
+}]
+}
+}
+);
+  chartObj.render();
+});
+
+FusionCharts.ready(function(){
+  var chartObj = new FusionCharts({
+type: 'doughnut2d',
+renderAt: 'TopSellingCategories',
+width: '380',
+height:'250',
+dataFormat: 'json',
+dataSource: {
+    "chart": {
+      "showPercentageValues":"0" ,
+      "showPercentInToolTip":"1",
+      "chartLeftMargin": "0",
+    "chartTopMargin": "-20",
+    "chartRightMargin": "0",
+    "chartBottomMargin": "-20",
+      "startingAngle": "310",
+      "baseFont": "Verdana",
+    "baseFontSize": "15",
+    "baseFontColor": "#ffffff",
+    "labelFontColor": "#ffffff",
+    "labelFontSize": "15",
+    "outCnvBaseFontColor": "#fff",
+        "numberPrefix": "",
+        "labelFontBold": "1",
+        "bgColor": "#ffffff",
+        "startingAngle": "310",
+        "showLegend": "1",
+        "showLegendValue": "0",
+        "legendPosition": "right",
+        "defaultCenterLabel": "Total Categories : 100",
+        "centerLabel": "Sales $label: $value%",
+        "centerLabelBold": "1",
+        "showTooltip": "0",
+        "decimals": "0",
+        "theme": "fusion",
+        "valuePosition":"inside",
+        "labelPosition":"inside",
+        "showlabels": "0",
+        "palettecolors": "B57700,E89900,F7AD19,A6A6A6,808080",
+        "showplotBorder": "1",
+    "plotHighlightEffect": "fadeout|alpha=60, valueBgColor=#ff0000, valueBorderColor=#3a4660, valueFontColor=#000000"
+
+    },
+    "data": [{
+        "label": "Abrasives",
+        "value": "30"
+    }, {
+        "label": "Fasteners",
+        "value": "10"
+    }, {
+      "label": "Fleet Maintenance",
+      "value": "20"
+  }, {
+    "label": "Hand Tools",
+    "value": "40"
+}, {
+  "label": "Fasteners",
+  "value": "70"
+}]
+}
+}
+);
+  chartObj.render();
+});
+
+FusionCharts.ready(function(){
+  var chartObj = new FusionCharts({
+type: 'doughnut2d',
+renderAt: 'CurrentDeals',
+width: '380',
+height:'250',
+dataFormat: 'json',
+dataSource: {
+    "chart": {
+      "showPercentageValues":"0" ,
+      "showPercentInToolTip":"1",
+      "chartLeftMargin": "0",
+    "chartTopMargin": "-20",
+    "chartRightMargin": "0",
+    "chartBottomMargin": "-20",
+      "startingAngle": "310",
+      "baseFont": "Verdana",
+    "baseFontSize": "15",
+    "baseFontColor": "#ffffff",
+    "labelFontColor": "#ffffff",
+    "labelFontSize": "15",
+    "outCnvBaseFontColor": "#fff",
+        "numberPrefix": "",
+        "labelFontBold": "1",
+        "bgColor": "#ffffff",
+        "startingAngle": "310",
+        "showLegend": "1",
+        "showLegendValue": "0",
+        "legendPosition": "right",
+        "defaultCenterLabel": "Total Categories : 100",
+        "centerLabel": "Sales $label: $value%",
+        "centerLabelBold": "1",
+        "showTooltip": "0",
+        "decimals": "0",
+        "theme": "fusion",
+        "valuePosition":"inside",
+        "labelPosition":"inside",
+        "showlabels": "0",
+        "palettecolors": "B57700,E89900,F7AD19,A6A6A6,808080",
+        "showplotBorder": "1",
+    "plotHighlightEffect": "fadeout|alpha=60, valueBgColor=#ff0000, valueBorderColor=#3a4660, valueFontColor=#000000"
+
+    },
+    "data": [{
+        "label": "Abrasives",
+        "value": "30"
+    }, {
+        "label": "Fasteners",
+        "value": "10"
+    }, {
+      "label": "Fleet Maintenance",
+      "value": "20"
+  }, {
+    "label": "Hand Tools",
+    "value": "40"
+}, {
+  "label": "Fasteners",
+  "value": "70"
+}]
+}
+}
+);
+  chartObj.render();
+});
+
+FusionCharts.ready(function(){
+  var chartObj = new FusionCharts({
+type: 'doughnut2d',
+renderAt: 'TopSaleProducts',
+width: '380',
+height:'250',
+dataFormat: 'json',
+dataSource: {
+    "chart": {
+      "showPercentageValues":"0" ,
+      "showPercentInToolTip":"1",
+      "chartLeftMargin": "0",
+    "chartTopMargin": "-20",
+    "chartRightMargin": "0",
+    "chartBottomMargin": "-20",
+      "startingAngle": "310",
+      "baseFont": "Verdana",
+    "baseFontSize": "15",
+    "baseFontColor": "#ffffff",
+    "labelFontColor": "#ffffff",
+    "labelFontSize": "15",
+    "outCnvBaseFontColor": "#fff",
+        "numberPrefix": "",
+        "labelFontBold": "1",
+        "bgColor": "#ffffff",
+        "startingAngle": "310",
+        "showLegend": "1",
+        "showLegendValue": "0",
+        "legendPosition": "right",
+        "defaultCenterLabel": "Total Categories : 100",
+        "centerLabel": "Sales $label: $value%",
+        "centerLabelBold": "1",
+        "showTooltip": "0",
+        "decimals": "0",
+        "theme": "fusion",
+        "valuePosition":"inside",
+        "labelPosition":"inside",
+        "showlabels": "0",
+        "palettecolors": "B57700,E89900,F7AD19,A6A6A6,808080",
+        "showplotBorder": "1",
+    "plotHighlightEffect": "fadeout|alpha=60, valueBgColor=#ff0000, valueBorderColor=#3a4660, valueFontColor=#000000"
+
     },
     "data": [{
         "label": "Abrasives",

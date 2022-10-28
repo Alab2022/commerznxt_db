@@ -36,29 +36,31 @@
     <div class="col-md-4 sticky">
       <div class="card card-pd-left">
         <div class="card-heading fo-flx-sb-bl">
-          <h4>Categries On Offer</h4>
+          <h4>Categories On Offer</h4>
 
         </div>
         <div id="CategoryOnOffer">FusionCharts XT will load here!</div>
       </div>
-      <div class="card card-pd">
+      <div class="card card-pd-left">
         <div class="card-heading fo-flx-sb-bl">
-          <h4>Top Selling Products</h4>
+          <h4>Top Selling Categories</h4>
 
         </div>
+        <div id="TopSellingCategories">FusionCharts XT will load here!</div>
       </div>
-      <div class="card card-pd">
+      <div class="card card-pd-left">
         <div class="card-heading fo-flx-sb-bl">
           <h4>Current Deals</h4>
 
         </div>
-
+        <div id="CurrentDeals">FusionCharts XT will load here!</div>
       </div>
-      <div class="card card-pd">
+      <div class="card card-pd-left">
         <div class="card-heading fo-flx-sb-bl">
           <h4>Top Sale Products</h4>
 
         </div>
+        <div id="TopSaleProducts">FusionCharts XT will load here!</div>
       </div>
     </div>
     <div class="col-md-8">
