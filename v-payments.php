@@ -34,7 +34,7 @@
         <input type="text" class="form-control" placeholder="Search" />
       </div>
      
-      <a href="" class="btn btn-primary ms-2"><span><img class="mr1" src="img/ad-invoice.svg" alt=""></span> Create Payment</a>
+      <a href="v-c-payment.php" class="btn btn-primary ms-2"><span><img class="mr1" src="img/ad-invoice.svg" alt=""></span> Create Payment</a>
 
     </div>
   </div>
@@ -64,7 +64,7 @@
               <td>06/10/2022</td>
               <td>22500</td>
               <td>500</td>
-              <td><i class="bi bi-eye-fill"></i></td>
+              <td><a href="createpayment.php"><i class="bi bi-eye-fill"></i></a></td>
               
             </tr>
             <tr>
