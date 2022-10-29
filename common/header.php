@@ -25,8 +25,8 @@
             <li><a class="dropdown-item" href="crm-index.php">Customer</a></li>
             <li><a class="dropdown-item" href="#">Company</a></li>
             <li><a class="dropdown-item" href="quotes.php">Quotes</a></li>
-            <li><a class="dropdown-item" href="orders.php">Order</a></li>
-            <li><a class="dropdown-item" href="invoice.php">Invoice</a></li>
+            <li><a class="dropdown-item" href="db-orders.php">Order</a></li>
+            <li><a class="dropdown-item" href="db-invoice.php">Invoice</a></li>
           </ul>
         </li>
         <li class="nav-item inner dropdown">
@@ -64,7 +64,7 @@
                 <ul class="dropdown-menu last">
                   <li><a class="dropdown-item" href="#"><i class="bi bi-person-circle"></i> My Profile</a></li>
                   <li><a class="dropdown-item" href="notes.php"><i class="bi bi-card-text"></i>Notes</a></li>
-                  <li><a class="dropdown-item" href="#"><i class="bi bi-journal-arrow-up"></i>Feeds</a></li>
+                  <li><a class="dropdown-item" href="feeds.php"><i class="bi bi-journal-arrow-up"></i>Feeds</a></li>
                   <li><a class="dropdown-item" href="login.html"><i class="bi bi-box-arrow-right"></i>Logout</a></li>
                 </ul>
               </li>
