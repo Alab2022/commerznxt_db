@@ -87,7 +87,7 @@
               </div>
             </div>
             <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault2">
+              <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault2">
               <label class="form-check-label" for="flexCheckDefault2">
               </label>
             </div>
@@ -117,7 +117,7 @@
               </div>
             </div>
             <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault2">
+              <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault2">
               <label class="form-check-label" for="flexCheckDefault2">
               </label>
             </div>
@@ -147,7 +147,7 @@
               </div>
             </div>
             <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault2">
+              <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault2">
               <label class="form-check-label" for="flexCheckDefault2">
               </label>
             </div>
@@ -177,7 +177,7 @@
               </div>
             </div>
             <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault2">
+              <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault2">
               <label class="form-check-label" for="flexCheckDefault2">
               </label>
             </div>
@@ -207,7 +207,7 @@
               </div>
             </div>
             <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault2">
+              <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault2">
               <label class="form-check-label" for="flexCheckDefault2">
               </label>
             </div>

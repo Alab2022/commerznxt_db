@@ -39,7 +39,7 @@
     <div class="page-inner">
       <div class="profile-flx-wrapper">
 
-        <div class="card card-pd text-center">
+        <div class="card card-pd text-center hover-card">
           <div class="pro-hov-content">
             <div class="prof-al-center sml">
               <div class="ic-right">
@@ -90,7 +90,7 @@
             </div>
           </div>
         </div>
-        <div class="card card-pd text-center">
+        <div class="card card-pd text-center hover-card">
           <div class="pro-hov-content">
             <div class="prof-al-center sml">
               <div class="ic-right">
@@ -140,7 +140,7 @@
             </div>
           </div>
         </div>
-        <div class="card card-pd text-center">
+        <div class="card card-pd text-center hover-card">
           <div class="pro-hov-content">
             <div class="prof-al-center sml">
               <div class="ic-right">
@@ -191,7 +191,7 @@
             </div>
           </div>
         </div>
-        <div class="card card-pd text-center">
+        <div class="card card-pd text-center hover-card">
           <div class="pro-hov-content">
             <div class="prof-al-center sml">
               <div class="ic-right">
@@ -241,7 +241,7 @@
             </div>
           </div>
         </div>
-        <div class="card card-pd text-center">
+        <div class="card card-pd text-center hover-card">
           <div class="pro-hov-content">
             <div class="prof-al-center sml">
               <div class="ic-right">
@@ -291,7 +291,7 @@
             </div>
           </div>
         </div>
-        <div class="card card-pd text-center">
+        <div class="card card-pd text-center hover-card">
           <div class="pro-hov-content">
             <div class="prof-al-center sml">
               <div class="ic-right">
@@ -346,7 +346,8 @@
     </div>
 
   </div>
-  <div class="tab-pane fade show active" id="dirsale-tab" role="tabpanel" aria-labelledby="dirsale">
+  
+ <div class="tab-pane fade show" id="dirsale" role="tabpanel" aria-labelledby="dirsale">
     <div class="page-inner">
       <div class="profile-flx-wrapper">
 
@@ -368,6 +369,7 @@
     </div>
 
   </div>
+  
 </div>
 
 <!-- Add User offcanvas -->
@@ -407,8 +409,26 @@
               </div>
             </div>
           </div>
+          <div class="form-flex fo-flx-js-sb">
+            <div class="form-group">
+              <label for="">First Name</label>
+              <input type="text" class="shadow-cs">
+            </div>
+            <div class="form-group">
+              <label for="">Last Name</label>
+              <input type="text">
+            </div>
+          </div>
           <div class="form-group">
-            <label for="">Status</label>
+            <label for="">Email</label>
+            <input type="text">
+          </div>
+          <div class="form-group">
+            <label for="">Mobile</label>
+            <input type="text">
+          </div>
+          <div class="form-group">
+            <label for="">Role</label>
             <div class="dropdown">
               <span><i class="bi bi-chevron-down"></i></span>
               <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -421,49 +441,13 @@
               </ul>
             </div>
           </div>
-
-
-
           <div class="form-group">
-            <label for="">Geography</label>
-            <div class="dropdown">
-              <span><i class="bi bi-chevron-down"></i></span>
-              <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Brand
-              </button>
-              <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">Action</a></li>
-                <li><a class="dropdown-item" href="#">Another action</a></li>
-                <li><a class="dropdown-item" href="#">Something else here</a></li>
-              </ul>
-            </div>
+            <label for="">Username</label>
+            <input type="text">
           </div>
           <div class="form-group">
-            <label for="">Channel</label>
-            <div class="dropdown">
-              <span><i class="bi bi-chevron-down"></i></span>
-              <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Out of Stock
-              </button>
-              <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">Action</a></li>
-                <li><a class="dropdown-item" href="#">Another action</a></li>
-                <li><a class="dropdown-item" href="#">Something else here</a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col">
-
-            <label for="exampleFormControlTextarea1">Target Date</label>
-            <div class="input-group date" id="datepicker">
-              <input type="text" class="form-control shadow-cs" id="date" />
-              <span class="input-group-append shadow-cs ">
-                <span class="input-group-text bg-light d-block dp_icon">
-                  <i class="bi bi-calendar-week-fill"></i>
-                </span>
-              </span>
-            </div>
-
+            <label for="">Password</label>
+            <input type="password">
           </div>
 
         </div>
@@ -486,15 +470,15 @@
     <div class="accordion-body">
 
 
-      
-        <div class="form-group mb-2">
-          <label for="">Role Code</label>
-          <input type="text" class="shadow-cs">
-        </div>
-        <div class="form-group mb-2">
-          <label for="">Role Name</label>
-          <input type="text">
-        </div>
+
+      <div class="form-group mb-2">
+        <label for="">Role Code</label>
+        <input type="text" class="shadow-cs">
+      </div>
+      <div class="form-group mb-2">
+        <label for="">Role Name</label>
+        <input type="text">
+      </div>
 
 
       <div class="form-group mb-2">
@@ -502,23 +486,23 @@
         <input type="text">
       </div>
       <div class="form-group mb-2">
-      <label for="">Role Status</label>
-      <div class="d-flex radio-custom mt-2">
-            <div class="form-check me-3 ">
-              <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
-              <label class="form-check-label" for="flexRadioDefault1">
-                Enable
-              </label>
-            </div>
-            <div class="form-check">
-              <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
-              <label class="form-check-label" for="flexRadioDefault2">
-                Disable
-              </label>
-            </div>
+        <label for="">Role Status</label>
+        <div class="d-flex radio-custom mt-2">
+          <div class="form-check me-3 ">
+            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+            <label class="form-check-label" for="flexRadioDefault1">
+              Enable
+            </label>
           </div>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+            <label class="form-check-label" for="flexRadioDefault2">
+              Disable
+            </label>
           </div>
-      
+        </div>
+      </div>
+
     </div>
   </div>
   <div class="offcanvas-footer fil-pd">
