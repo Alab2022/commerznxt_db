@@ -75,7 +75,9 @@ align-items: center;
 .left p, h1 {
   margin-bottom: 0;
 }
-
+.text-right{
+  text-align: right;
+}
 .fo-flx {
   display: flex;
   align-items: center;
@@ -1775,7 +1777,7 @@ color: #fff;
     top: 0px;
 }
 .accordion-body .col-md-4 .form-group {
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 .ven-id p {
   text-align: right;
@@ -1837,5 +1839,28 @@ color: #fff;
 }
 .fade-out{
   background-color: #F3F3F3;
+}
+.gp {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+.gp textarea{
+  padding: 10px;
+  border-radius: 5px;
+}
+.gp textarea {
+  max-height: 90px;
+  height: 100%;
+}
+.inp-rg {
+  width: 30%;
+  display: flex;
+  float: right;
+  align-items: center;
+  margin-top: 20px;
+}
+i.bi.bi-exclamation-circle.text-primary {
+  font-size: 40px;
 }
 /* Purchase css ends here///////////////////////////////////////////////////////////////// */

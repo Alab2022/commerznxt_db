@@ -12,9 +12,9 @@
     </div>
     <div class="right align-center">
 
-      <button type="button" class="btn btn-primary ms-2 bg-drk-blue"> <span><img src="img/edit.svg" alt=""></span> Edit</button>
+     
 
-      <button class="btn btn-primary ms-2"><i class="bi bi-arrow-left"></i> Back</button>
+      <a href="p-orders.php" class="btn btn-primary ms-2"><i class="bi bi-arrow-left"></i> Back</a>
     </div>
   </div>
 </div>
