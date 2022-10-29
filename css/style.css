@@ -133,7 +133,7 @@ h6.st-wi {
   white-space: nowrap;
 }
 h6{
-    font-weight: 600 !important;
+    font-weight: 800 !important;
     color: #949494;
     font-size: 14px !important;
 }
@@ -1120,7 +1120,7 @@ tbody tr td:last-child{
   /* border-radius: 5px !important; */
   text-align: center;
   box-shadow: 0 2px 4px rgb(0 0 0 / 4%)!important;
-  margin-bottom: 1.5rem;
+  margin-bottom: 0;
   border: 1px solid #f0f0f0!important;
   /* box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px !important; */
 }
@@ -1593,7 +1593,7 @@ text-align: left;
 }
 .list-img-wrapper {
   width: 100%;
-  height: 200px;
+  height: 160px;
   text-align: center;
 }
 .list-img-wrapper img {
@@ -1626,6 +1626,7 @@ h4.list-heading {
   width: 12px;
   height: 12px;
   border-radius: 50px;
+  
 }
 .sec-dot{
   background: #97CDCD;
@@ -1669,6 +1670,7 @@ padding: 10px;
   margin-bottom: 0;
   color: #ffffff;
   position: absolute;
+  font-weight: 800;
 }
 /* distributor Inventory A css ends here///////////////////////////////////////////////////////////////// */
 
@@ -1749,8 +1751,8 @@ color: #fff;
   position: absolute;
   width: 100% !IMPORTANT;
   left: 0;
-  top: 0;
-  display: none;
+  top: 350px;
+  transition: all 0.3s ease-out;
 }
 .prof-contents{
   margin-top: 2.5rem;
@@ -1770,7 +1772,7 @@ color: #fff;
   color: #7482A7;
 }
 .card.card-pd.text-center:hover .pro-hov-content {
-    display: block;
+    top: 0px;
 }
 .accordion-body .col-md-4 .form-group {
   margin-bottom: 5px;

@@ -23,7 +23,7 @@
 <div class="container-fluid page-inner">
   <div class="profile-flx-wrapper">
 
-    <div class="card card-pd text-center">
+    <div class="card card-pd text-center  hover-card">
       <div class="pro-hov-content">
         <div class="prof-al-center">
           <div class="ic-right">
@@ -76,7 +76,7 @@
         </div>
       </div>
     </div>
-    <div class="card card-pd text-center">
+    <div class="card card-pd text-center  hover-card">
       <div class="pro-hov-content">
         <div class="prof-al-center">
           <div class="ic-right">
@@ -129,7 +129,7 @@
         </div>
       </div>
     </div>
-    <div class="card card-pd text-center">
+    <div class="card card-pd text-center  hover-card">
       <div class="pro-hov-content">
         <div class="prof-al-center">
           <div class="ic-right">
@@ -182,7 +182,7 @@
         </div>
       </div>
     </div>
-    <div class="card card-pd text-center">
+    <div class="card card-pd text-center  hover-card">
       <div class="pro-hov-content">
         <div class="prof-al-center">
           <div class="ic-right">
@@ -235,7 +235,7 @@
         </div>
       </div>
     </div>
-    <div class="card card-pd text-center">
+    <div class="card card-pd text-center  hover-card">
       <div class="pro-hov-content">
         <div class="prof-al-center">
           <div class="ic-right">
@@ -288,7 +288,7 @@
         </div>
       </div>
     </div>
-    <div class="card card-pd text-center">
+    <div class="card card-pd text-center  hover-card">
       <div class="pro-hov-content">
         <div class="prof-al-center">
           <div class="ic-right">

@@ -96,7 +96,7 @@
                   <h6><strong>SKU:</strong> W3089GTA</h6>
                   <h6><strong>Category:</strong> Power Tools</h6>
                 </div>
-                <h6 class="text-primary text-center mt-3">
+                <h6 class="text-primary text-center mt-3 mb-0">
                   Out Of stock
                 </h6>
               </div>
@@ -114,7 +114,7 @@
                   <h6><strong>SKU:</strong> W3089GTA</h6>
                   <h6><strong>Category:</strong> Power Tools</h6>
                 </div>
-                <h6 class="text-primary text-center mt-3">
+                <h6 class="text-primary text-center mt-3 mb-0">
                   Out Of stock
                 </h6>
               </div>
@@ -132,7 +132,7 @@
                   <h6><strong>SKU:</strong> W3089GTA</h6>
                   <h6><strong>Category:</strong> Power Tools</h6>
                 </div>
-                <h6 class="text-primary mt-3">
+                <h6 class="text-primary mt-3 mb-0">
                   Out Of stock
                 </h6>
               </div>
@@ -158,7 +158,7 @@
                   <h6><strong>SKU:</strong> W3089GTA</h6>
                   <h6><strong>Category:</strong> Power Tools</h6>
                 </div>
-                <h6 class="text-primary text-center mt-3">
+                <h6 class="text-primary text-center mt-3 mb-0">
                   Out Of stock
                 </h6>
               </div>
@@ -176,7 +176,7 @@
                   <h6><strong>SKU:</strong> W3089GTA</h6>
                   <h6><strong>Category:</strong> Power Tools</h6>
                 </div>
-                <h6 class="text-primary text-center mt-3">
+                <h6 class="text-primary text-center mt-3 mb-0">
                   Out Of stock
                 </h6>
               </div>
@@ -194,7 +194,7 @@
                   <h6><strong>SKU:</strong> W3089GTA</h6>
                   <h6><strong>Category:</strong> Power Tools</h6>
                 </div>
-                <h6 class="text-primary mt-3">
+                <h6 class="text-primary mt-3 mb-0">
                   Out Of stock
                 </h6>
               </div>
@@ -212,7 +212,7 @@
                   <h6><strong>SKU:</strong> W3089GTA</h6>
                   <h6><strong>Category:</strong> Power Tools</h6>
                 </div>
-                <h6 class="text-primary text-center mt-3">
+                <h6 class="text-primary text-center mt-3 mb-0">
                   Out Of stock
                 </h6>
               </div>
@@ -230,7 +230,7 @@
                   <h6><strong>SKU:</strong> W3089GTA</h6>
                   <h6><strong>Category:</strong> Power Tools</h6>
                 </div>
-                <h6 class="text-primary text-center mt-3">
+                <h6 class="text-primary text-center mt-3 mb-0">
                   Out Of stock
                 </h6>
               </div>

@@ -34,14 +34,14 @@
 <div class="container-fluid page-inner">
   <div class="row">
     <div class="col-md-4 sticky">
-      <div class="card card-pd">
+      <div class="card card-pd-left">
         <div class="card-heading fo-flx-sb-bl">
           <h4>Current Deals</h4>
 
         </div>
         <div id="CurrentDeals">FusionCharts XT will load here!</div>
       </div>
-      <div class="card card-pd">
+      <div class="card card-pd-left">
         <div class="card-heading fo-flx-sb-bl">
           <h4>Top Sale Products</h4>
 
@@ -50,7 +50,7 @@
       </div>
     </div>
     <div class="col-md-8">
-      <div class="card card-pd">
+      <div class="card card-pd custom-list">
         <div class="card-heading fo-flx-sb-bl">
           <div>
             <h4>Product List</h4>
@@ -96,7 +96,7 @@
           <div class="row">
             <div class="col-md-4">
               
-              <div class="card card-pd">
+              <div class="card card-pd custom-list">
               <div class="float-offer primary">
                 <h4>20%</h4>
               </div>
@@ -117,7 +117,7 @@
             </div>
             <div class="col-md-4">
               
-              <div class="card card-pd">
+              <div class="card card-pd custom-list">
               <div class="float-offer primary">
                 <h4>20%</h4>
               </div>
@@ -138,7 +138,7 @@
             </div>
             <div class="col-md-4">
               
-              <div class="card card-pd">
+              <div class="card card-pd custom-list">
               <div class="float-offer primary">
                 <h4>20%</h4>
               </div>
@@ -167,7 +167,7 @@
             <div class="row">
             <div class="col-md-4">
               
-              <div class="card card-pd">
+              <div class="card card-pd custom-list">
               <div class="float-offer primary">
                 <h4>20%</h4>
               </div>
@@ -188,7 +188,7 @@
             </div>
             <div class="col-md-4">
               
-              <div class="card card-pd">
+              <div class="card card-pd custom-list">
               <div class="float-offer primary">
                 <h4>20%</h4>
               </div>
@@ -209,7 +209,7 @@
             </div>
             <div class="col-md-4">
               
-              <div class="card card-pd">
+              <div class="card card-pd custom-list">
               <div class="float-offer primary">
                 <h4>20%</h4>
               </div>

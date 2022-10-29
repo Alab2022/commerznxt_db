@@ -1277,12 +1277,12 @@
                       <img src="img/faces/face23.jpg" class="avatar-med">
                     </div>
                     <div>
-                      <h4 class="cont-name-sml">Amelia</h4>
+                      <h4 class="cont-name-sml">Amelia adassd</h4>
                       <h4 class="cont-desc-sml">Customer</h4>
                     </div>
                   </div>
                   <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault2">
+            <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault2">
             <label class="form-check-label" for="flexCheckDefault2">
             </label>
           </div>                  
@@ -1312,8 +1312,8 @@
                     </div>
                   </div>
                   <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault2">
-            <label class="form-check-label" for="flexCheckDefault2">
+            <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault3">
+            <label class="form-check-label" for="flexCheckDefault3">
             </label>
           </div>                  
           </div>
@@ -1342,8 +1342,8 @@
                     </div>
                   </div>
                   <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault2">
-            <label class="form-check-label" for="flexCheckDefault2">
+            <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault4">
+            <label class="form-check-label" for="flexCheckDefault4">
             </label>
           </div>                  
           </div>
@@ -1372,7 +1372,7 @@
                     </div>
                   </div>
                   <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault2">
+            <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault2">
             <label class="form-check-label" for="flexCheckDefault2">
             </label>
           </div>                  
@@ -1402,7 +1402,7 @@
                     </div>
                   </div>
                   <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault2">
+            <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault2">
             <label class="form-check-label" for="flexCheckDefault2">
             </label>
           </div>                  
@@ -1432,7 +1432,7 @@
                     </div>
                   </div>
                   <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault2">
+            <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault2">
             <label class="form-check-label" for="flexCheckDefault2">
             </label>
           </div>                  
@@ -2213,8 +2213,8 @@
             <input type="text" class="shadow-cs">
           </div>
           <div class="form-check mt-4">
-            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-            <label class="form-check-label" for="flexCheckDefault">
+          <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault5">
+            <label class="form-check-label" for="flexCheckDefault5">
               Mark as Received
             </label>
           </div>
@@ -2225,8 +2225,8 @@
             <input type="text" class="shadow-cs">
           </div>
           <div class="form-check mt-4">
-            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-            <label class="form-check-label" for="flexCheckDefault">
+          <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault6">
+            <label class="form-check-label" for="flexCheckDefault6">
               Mark as Received
             </label>
           </div>

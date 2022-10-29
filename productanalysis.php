@@ -64,18 +64,18 @@
       </div>
     </div>
     <div class="col-md-8">
-      <div class="card card-pd">
+      <div class="card card-pd custom-list">
         <div class="card-heading fo-flx-sb-bl">
           <div>
             <h4>Product List</h4>
             <div class="fo-flx align-center mt-1" style="white-space: nowrap;">
               <div>
-                <h6 class="d-flex align-center mr2">
+                <h6 class="d-flex align-center mr2 dot">
                   <div class="primary-dot mr0-5"></div>Sale Start Date
                 </h6>
               </div>
               <div>
-                <h6 class="d-flex align-center mr2">
+                <h6 class="d-flex align-center mr2 dot">
                   <div class="sec-dot mr0-5"></div>Sale End Date
                 </h6>
               </div>
@@ -113,7 +113,7 @@
 
           <div class="row">
             <div class="col-md-4">
-              <div class="card card-pd">
+              <div class="card card-pd custom-list">
                 <h4 class="list-heading">PowerHouse 100 mm
                   Angle Grinder 670W
                   PHAG100 with 6</h4>
@@ -143,7 +143,7 @@
 
             </div>
             <div class="col-md-4">
-              <div class="card card-pd">
+              <div class="card card-pd custom-list">
                 <h4 class="list-heading">PowerHouse 100 mm
                   Angle Grinder 670W
                   PHAG100 with 6</h4>
@@ -173,7 +173,7 @@
 
           </div>
           <div class="col-md-4">
-            <div class="card card-pd">
+            <div class="card card-pd custom-list">
               <h4 class="list-heading">PowerHouse 100 mm
                 Angle Grinder 670W
                 PHAG100 with 6</h4>
@@ -210,7 +210,7 @@
 
           <div class="row">
             <div class="col-md-4">
-              <div class="card card-pd">
+              <div class="card card-pd custom-list">
                 <h4 class="list-heading">PowerHouse 100 mm
                   Angle Grinder 670W
                   PHAG100 with 6</h4>
@@ -240,7 +240,7 @@
 
             </div>
             <div class="col-md-4">
-              <div class="card card-pd">
+              <div class="card card-pd custom-list">
                 <h4 class="list-heading">PowerHouse 100 mm
                   Angle Grinder 670W
                   PHAG100 with 6</h4>
@@ -270,7 +270,7 @@
 
           </div>
           <div class="col-md-4">
-            <div class="card card-pd">
+            <div class="card card-pd custom-list">
               <h4 class="list-heading">PowerHouse 100 mm
                 Angle Grinder 670W
                 PHAG100 with 6</h4>
@@ -300,7 +300,7 @@
 
           </div>
           <div class="col-md-4">
-            <div class="card card-pd">
+            <div class="card card-pd custom-list">
               <h4 class="list-heading">PowerHouse 100 mm
                 Angle Grinder 670W
                 PHAG100 with 6</h4>
@@ -330,7 +330,7 @@
 
           </div>
           <div class="col-md-4">
-            <div class="card card-pd">
+            <div class="card card-pd custom-list">
               <h4 class="list-heading">PowerHouse 100 mm
                 Angle Grinder 670W
                 PHAG100 with 6</h4>
@@ -360,7 +360,7 @@
 
         </div>
         <div class="col-md-4">
-          <div class="card card-pd">
+          <div class="card card-pd custom-list">
             <h4 class="list-heading">PowerHouse 100 mm
               Angle Grinder 670W
               PHAG100 with 6</h4>
