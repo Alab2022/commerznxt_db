@@ -40,43 +40,43 @@
     <div class="col-md-3">
       <div class="card custom-list">
         <div>
-        <div class="quote-message bo-primary mb-2">
+          <div class="quote-message bo-primary ">
             <p> <i class="bi bi-hourglass-top"></i> Waiting for Approval</p>
 
           </div>
-          <div class="date-wrap fo-flx-js-sb mb-2">
-            
+
+          <h1 class="big-total"> €4,275 </h1>
+          <p> <strong> Id: </strong> COMNXT-Q-01 </p>
+          <div class="date-wrap fo-flx-js-sb mb-4">
+
             <div>
               <h6><Strong>Created on:</Strong> 11 Oct, 2022</h6>
             </div>
             <div>
-            <i class="bi bi-calendar-fill"></i>
+              <i class="bi bi-calendar-fill"></i>
             </div>
           </div>
-          <h1 class="big-total"> €4,275 </h1>
-          <p> <strong> Id: </strong> COMNXT-Q-01 </p>
-
           <div class="d-flex card-botm">
-            <div class="d-flex">
-              <div class="avatar-wrapper">
+            <div class="left d-flex">
+              <div class="avatar-wrapper-list">
                 <img src="img/faces/face23.jpg" class="avatar-med">
               </div>
-              <div>
-              <h4 class="cont-desc-sml">Vendor</h4>
-                <h4 class="cont-name-sml">Felicia</h4>
-              </div>
-            </div>
-            <div class="vertical-div"></div>
-            <div class="d-flex">
-              <div class="avatar-wrapper">
-                <img src="img/faces/face23.jpg" class="avatar-med">
-              </div>
-              <div>
-              <h4 class="cont-desc-sml">Vendor</h4>
-                <h4 class="cont-name-sml">Felicia</h4>
+              <div style="overflow:hidden;">
+                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
               </div>
             </div>
             
+            <div class="right d-flex">
+              <div class="avatar-wrapper-list">
+                <img src="img/faces/face23.jpg" class="avatar-med">
+              </div>
+              <div style="overflow:hidden;">
+                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
+              </div>
+            </div>
+
           </div>
         </div>
 
@@ -85,43 +85,43 @@
     <div class="col-md-3">
       <a href="db-order-view.php" class="card custom-list">
         <div>
-        <div class="quote-message bo-success mb-2 ">
+          <div class="quote-message bo-success ">
             <p> <i class="bi bi-check-circle-fill"></i> Approved</p>
 
           </div>
-          <div class="date-wrap fo-flx-js-sb mb-2">
-            
+
+          <h1 class="big-total"> €4,275 </h1>
+          <p> <strong> Id: </strong> COMNXT-Q-01 </p>
+          <div class="date-wrap fo-flx-js-sb mb-4">
+
             <div>
               <h6><Strong>Created on:</Strong> 11 Oct, 2022</h6>
             </div>
             <div>
-            <i class="bi bi-calendar-fill"></i>
+              <i class="bi bi-calendar-fill"></i>
             </div>
           </div>
-          <h1 class="big-total"> €4,275 </h1>
-          <p> <strong> Id: </strong> COMNXT-Q-01 </p>
-
           <div class="d-flex card-botm">
-            <div class="d-flex">
-              <div class="avatar-wrapper">
+            <div class="left d-flex">
+              <div class="avatar-wrapper-list">
                 <img src="img/faces/face23.jpg" class="avatar-med">
               </div>
-              <div>
-              <h4 class="cont-desc-sml">Vendor</h4>
-                <h4 class="cont-name-sml">Felicia</h4>
-              </div>
-            </div>
-            <div class="vertical-div"></div>
-            <div class="d-flex">
-              <div class="avatar-wrapper">
-                <img src="img/faces/face23.jpg" class="avatar-med">
-              </div>
-              <div>
-              <h4 class="cont-desc-sml">Vendor</h4>
-                <h4 class="cont-name-sml">Felicia</h4>
+              <div style="overflow:hidden;">
+                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
               </div>
             </div>
             
+            <div class="right d-flex">
+              <div class="avatar-wrapper-list">
+                <img src="img/faces/face23.jpg" class="avatar-med">
+              </div>
+              <div style="overflow:hidden;">
+                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
+              </div>
+            </div>
+
           </div>
         </div>
 
@@ -130,51 +130,51 @@
     <div class="col-md-3">
       <div class="card custom-list">
         <div>
-        <div class="quote-message bo-hold mb-2">
+          <div class="quote-message bo-hold ">
             <p> <i class="bi bi-hourglass-top"></i> Hold</p>
 
           </div>
-          <div class="date-wrap fo-flx-js-sb mb-2">
-            
+
+          <h1 class="big-total"> €4,275 </h1>
+          <p> <strong> Id: </strong> COMNXT-Q-01 </p>
+          <div class="date-wrap fo-flx-js-sb mb-4">
+
             <div>
               <h6><Strong>Created on:</Strong> 11 Oct, 2022</h6>
             </div>
             <div>
-            <i class="bi bi-calendar-fill"></i>
+              <i class="bi bi-calendar-fill"></i>
             </div>
           </div>
-          <h1 class="big-total"> €4,275 </h1>
-          <p> <strong> Id: </strong> COMNXT-Q-01 </p>
-
           <div class="d-flex card-botm">
-            <div class="d-flex">
-              <div class="avatar-wrapper">
+            <div class="left d-flex">
+              <div class="avatar-wrapper-list">
                 <img src="img/faces/face23.jpg" class="avatar-med">
               </div>
-              <div>
-              <h4 class="cont-desc-sml">Vendor</h4>
-                <h4 class="cont-name-sml">Felicia</h4>
-              </div>
-            </div>
-            <div class="vertical-div"></div>
-            <div class="d-flex">
-              <div class="avatar-wrapper">
-                <img src="img/faces/face23.jpg" class="avatar-med">
-              </div>
-              <div>
-              <h4 class="cont-desc-sml">Vendor</h4>
-                <h4 class="cont-name-sml">Felicia</h4>
+              <div style="overflow:hidden;">
+                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
               </div>
             </div>
             
+            <div class="right d-flex">
+              <div class="avatar-wrapper-list">
+                <img src="img/faces/face23.jpg" class="avatar-med">
+              </div>
+              <div style="overflow:hidden;">
+                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
+              </div>
+            </div>
+
           </div>
         </div>
 
       </div>
     </div>
-   
 
-  
+
+
 
 
   </div>
@@ -189,60 +189,60 @@
     </div>
     <div class="offcanvas-body">
       <div class="accordion-body">
-      <div class="form-group mb-3">
-        <label for="exampleFormControlTextarea1">Status</label>
-        <select class="form-select" aria-label="Default select example">
-          <option selected>Open this select menu</option>
-          <option value="1">One</option>
-          <option value="2">Two</option>
-          <option value="3">Three</option>
-        </select>
-      </div>
+        <div class="form-group mb-3">
+          <label for="exampleFormControlTextarea1">Status</label>
+          <select class="form-select" aria-label="Default select example">
+            <option selected>Open this select menu</option>
+            <option value="1">One</option>
+            <option value="2">Two</option>
+            <option value="3">Three</option>
+          </select>
+        </div>
 
-      <div class="form-group mb-3">
-        <div class="date-picker">
-          <label for="">Date</label>
-          <form action="/action_page.php">
-            <input type="date" id="birthday" name="birthday">
-          </form>
-        </div>
-      </div>
-      <div class="form-group mb-3">
-        <label for="">User Type</label>
-        <div class="d-flex radio-custom mt-3">
-          <div class="form-check me-3 ">
-            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
-            <label class="form-check-label" for="flexRadioDefault1">
-              General
-            </label>
-          </div>
-          <div class="form-check">
-            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
-            <label class="form-check-label" for="flexRadioDefault2">
-              Customer
-            </label>
+        <div class="form-group mb-3">
+          <div class="date-picker">
+            <label for="">Date</label>
+            <form action="/action_page.php">
+              <input type="date" id="birthday" name="birthday">
+            </form>
           </div>
         </div>
+        <div class="form-group mb-3">
+          <label for="">User Type</label>
+          <div class="d-flex radio-custom mt-3">
+            <div class="form-check me-3 ">
+              <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+              <label class="form-check-label" for="flexRadioDefault1">
+                General
+              </label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+              <label class="form-check-label" for="flexRadioDefault2">
+                Customer
+              </label>
+            </div>
+          </div>
+        </div>
+        <div class="form-group mb-3">
+          <label for="exampleFormControlTextarea1" class="form-label">Country</label>
+          <select class="form-select" aria-label="Default select example">
+            <option selected>Open this select menu</option>
+            <option value="1">One</option>
+            <option value="2">Two</option>
+            <option value="3">Three</option>
+          </select>
+        </div>
+        <div class="form-group mb-3">
+          <label for="exampleFormControlTextarea1" class="form-label">State/Provice</label>
+          <select class="form-select" aria-label="Default select example">
+            <option selected>Open this select menu</option>
+            <option value="1">One</option>
+            <option value="2">Two</option>
+            <option value="3">Three</option>
+          </select>
+        </div>
       </div>
-      <div class="form-group mb-3">
-        <label for="exampleFormControlTextarea1" class="form-label">Country</label>
-        <select class="form-select" aria-label="Default select example">
-          <option selected>Open this select menu</option>
-          <option value="1">One</option>
-          <option value="2">Two</option>
-          <option value="3">Three</option>
-        </select>
-      </div>
-      <div class="form-group mb-3">
-        <label for="exampleFormControlTextarea1" class="form-label">State/Provice</label>
-        <select class="form-select" aria-label="Default select example">
-          <option selected>Open this select menu</option>
-          <option value="1">One</option>
-          <option value="2">Two</option>
-          <option value="3">Three</option>
-        </select>
-      </div>
-    </div>
     </div>
     <div class="offcanvas-footer fil-pd">
       <button type="button" class="btn btn-secondary sec-custom">Clear</button>

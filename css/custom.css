@@ -199,8 +199,19 @@ ul.cont-list li a i {
 }
 
 .avatar-wrapper {
-  width: 2.6rem;
+  width: 2.9rem;
   margin-right: 10px;
+}
+
+.avatar-wrapper-list{
+  width: 4.9rem;
+  margin-right: 10px;
+}
+h4.cont-name-sml {
+    width: 100%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
 }
 .name_filter{
   background-color: var(--blue-light);
@@ -1000,7 +1011,7 @@ g.raphael-group-55-pie-label text{
     border-top: 1px solid #ebebeb;
     padding-top: 10px;
     margin: 0px -25px -25px;
-    padding: 10px 10px 15px;
+    padding: 10px 20px 15px;
     background: #fbfbfb;
     border-bottom-left-radius: 0.7rem;
     border-bottom-right-radius: 0.7rem;

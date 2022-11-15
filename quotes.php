@@ -35,100 +35,145 @@
   </div>
 </div>
 <div class="container-fluid page-inner">
-  <div class="row">
-
+<div class="row">
     <div class="col-md-3">
       <div class="card custom-list">
         <div>
-          <div class="quote-message bo-primary">
+          <div class="quote-message bo-primary ">
             <p> <i class="bi bi-hourglass-top"></i> Waiting for Approval</p>
 
           </div>
+
           <h1 class="big-total"> €4,275 </h1>
           <p> <strong> Id: </strong> COMNXT-Q-01 </p>
-          <div class="flag_general mt-2 me-2">Qty: 100</div>
-          <button class="btn btn-light btn-sm" data-bs-toggle="modal" data-bs-target="#addTask"><i class="bi bi-eye-fill"></i> View </button>
+          <div class="date-wrap fo-flx-js-sb mb-4">
+
+            <div>
+              <h6><Strong>Created on:</Strong> 11 Oct, 2022</h6>
+            </div>
+            <div>
+              <i class="bi bi-calendar-fill"></i>
+            </div>
+          </div>
+          <div class="d-flex card-botm">
+            <div class="left d-flex">
+              <div class="avatar-wrapper-list">
+                <img src="img/faces/face23.jpg" class="avatar-med">
+              </div>
+              <div style="overflow:hidden;">
+                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
+              </div>
+            </div>
+            
+            <div class="right d-flex">
+              <div class="avatar-wrapper-list">
+                <img src="img/faces/face23.jpg" class="avatar-med">
+              </div>
+              <div style="overflow:hidden;">
+                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
+              </div>
+            </div>
+
+          </div>
         </div>
 
       </div>
     </div>
-
     <div class="col-md-3">
-      <div class="card custom-list">
+      <a href="quotes-view.php" class="card custom-list">
         <div>
-          <div class="quote-message bo-success">
+          <div class="quote-message bo-success  ">
             <p> <i class="bi bi-check-circle-fill"></i> Approved</p>
 
           </div>
+
           <h1 class="big-total"> €4,275 </h1>
           <p> <strong> Id: </strong> COMNXT-Q-01 </p>
-          <div class="flag_general mt-2 me-2">Qty: 100</div>
-          <a href="quotes-view.php" class="btn btn-light btn-sm"><i class="bi bi-eye-fill"></i> View </a>
+          <div class="date-wrap fo-flx-js-sb mb-4">
+
+            <div>
+              <h6><Strong>Created on:</Strong> 11 Oct, 2022</h6>
+            </div>
+            <div>
+              <i class="bi bi-calendar-fill"></i>
+            </div>
+          </div>
+          <div class="d-flex card-botm">
+            <div class="left d-flex">
+              <div class="avatar-wrapper-list">
+                <img src="img/faces/face23.jpg" class="avatar-med">
+              </div>
+              <div style="overflow:hidden;">
+                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
+              </div>
+            </div>
+            
+            <div class="right d-flex">
+              <div class="avatar-wrapper-list">
+                <img src="img/faces/face23.jpg" class="avatar-med">
+              </div>
+              <div style="overflow:hidden;">
+                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
+              </div>
+            </div>
+
+          </div>
         </div>
 
-      </div>
+      </a>
     </div>
     <div class="col-md-3">
       <div class="card custom-list">
         <div>
-          <div class="quote-message bo-hold">
+          <div class="quote-message bo-hold ">
             <p> <i class="bi bi-hourglass-top"></i> Hold</p>
 
           </div>
+
           <h1 class="big-total"> €4,275 </h1>
           <p> <strong> Id: </strong> COMNXT-Q-01 </p>
-          <div class="flag_general mt-2 me-2">Qty: 100</div>
-          <button class="btn btn-light btn-sm" data-bs-toggle="modal" data-bs-target="#addTask"><i class="bi bi-eye-fill"></i> View </button>
-        </div>
+          <div class="date-wrap fo-flx-js-sb mb-4">
 
-      </div>
-    </div>
-    <div class="col-md-3">
-      <div class="card custom-list">
-        <div>
-          <div class="quote-message bo-primary">
-            <p> <i class="bi bi-hourglass-top"></i> Waiting for Approval</p>
+            <div>
+              <h6><Strong>Created on:</Strong> 11 Oct, 2022</h6>
+            </div>
+            <div>
+              <i class="bi bi-calendar-fill"></i>
+            </div>
+          </div>
+          <div class="d-flex card-botm">
+            <div class="left d-flex">
+              <div class="avatar-wrapper-list">
+                <img src="img/faces/face23.jpg" class="avatar-med">
+              </div>
+              <div style="overflow:hidden;">
+                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
+              </div>
+            </div>
+            
+            <div class="right d-flex">
+              <div class="avatar-wrapper-list">
+                <img src="img/faces/face23.jpg" class="avatar-med">
+              </div>
+              <div style="overflow:hidden;">
+                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
+              </div>
+            </div>
 
           </div>
-          <h1 class="big-total"> €4,275 </h1>
-          <p> <strong> Id: </strong> COMNXT-Q-01 </p>
-          <div class="flag_general mt-2 me-2">Qty: 100</div>
-          <button class="btn btn-light btn-sm" data-bs-toggle="modal" data-bs-target="#addTask"><i class="bi bi-eye-fill"></i> View </button>
         </div>
 
       </div>
     </div>
 
-    <div class="col-md-3">
-      <div class="card custom-list">
-        <div>
-          <div class="quote-message bo-success">
-            <p> <i class="bi bi-check-circle-fill"></i> Approved</p>
 
-          </div>
-          <h1 class="big-total"> €4,275 </h1>
-          <p> <strong> Id: </strong> COMNXT-Q-01 </p>
-          <div class="flag_general mt-2 me-2">Qty: 100</div>
-          <button class="btn btn-light btn-sm" data-bs-toggle="modal" data-bs-target="#addTask"><i class="bi bi-eye-fill"></i> View </button>
-        </div>
 
-      </div>
-    </div>
-    <div class="col-md-3">
-      <div class="card custom-list">
-        <div>
-          <div class="quote-message bo-hold">
-            <p> <i class="bi bi-hourglass-top"></i> Hold</p>
-
-          </div>
-          <h1 class="big-total"> €4,275 </h1>
-          <p> <strong> Id: </strong> COMNXT-Q-01 </p>
-          <div class="flag_general mt-2 me-2">Qty: 100</div>
-          <button class="btn btn-light btn-sm" data-bs-toggle="modal" data-bs-target="#addTask"><i class="bi bi-eye-fill"></i> View </button>
-        </div>
-
-      </div>
-    </div>
 
 
   </div>

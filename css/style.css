@@ -1687,6 +1687,13 @@ padding: 10px;
   position: absolute;
   font-weight: 800;
 }
+.card-botm .left, .right {
+  width: 50%;
+}
+.card-botm .left {
+  border-right: 1px solid #ddd;
+  margin-right: 10px;
+}
 /* distributor Inventory A css ends here///////////////////////////////////////////////////////////////// */
 
 /* Purchase css starts here///////////////////////////////////////////////////////////////// */
