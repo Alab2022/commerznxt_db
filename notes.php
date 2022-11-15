@@ -30,7 +30,7 @@
 										<div class="col-lg-12">
 											<div>
                                             <div class="d-flex justify-content-between align-items-center mb-4">
-                                                <div class="flag_customer">InProgress</div>
+                                                <div class="flag_success">Completed</div>
                                                 <div class="status"><i class="bi bi-check-circle-fill completed"></i></div>
                                             </div>
 												<h4 class="card-title card-title-dash">Lorem ipsum dolor sit amet, consectetur adipiscing elit, </h4>											
@@ -75,7 +75,7 @@
 											<div>
                                             <div class="d-flex justify-content-between align-items-center mb-4">
                                                 <div class="flag_customer">InProgress</div>
-                                                <div class="status"><i class="bi bi-circle open"></i></div>
+                                                <div class="status"><i class="bi bi-circle-half in-progress"></i></div>
                                             </div>
 												<h4 class="card-title card-title-dash">Lorem ipsum dolor sit amet, consectetur adipiscing elit, </h4>											
                                             </div>
@@ -123,7 +123,7 @@
 										<div class="col-lg-12">
 											<div>
                                             <div class="d-flex justify-content-between align-items-center mb-4">
-                                                <div class="flag_customer">InProgress</div>
+                                                <div class="flag_success">Completed</div>
                                                 <div class="status"><i class="bi bi-check-circle-fill completed"></i></div>
                                             </div>
 												<h4 class="card-title card-title-dash">Lorem ipsum dolor sit amet, consectetur adipiscing elit, </h4>											
@@ -170,7 +170,7 @@
 										<div class="col-lg-12">
 											<div>
                                             <div class="d-flex justify-content-between align-items-center mb-4">
-                                                <div class="flag_customer">InProgress</div>
+                                                <div class="flag_success">Completed</div>
                                                 <div class="status"><i class="bi bi-check-circle-fill completed"></i></div>
                                             </div>
 												<h4 class="card-title card-title-dash">Lorem ipsum dolor sit amet, consectetur adipiscing elit, </h4>											
@@ -215,7 +215,7 @@
 											<div>
                                             <div class="d-flex justify-content-between align-items-center mb-4">
                                                 <div class="flag_customer">InProgress</div>
-                                                <div class="status"><i class="bi bi-circle open"></i></div>
+                                                <div class="status"><i class="bi bi-circle-half in-progress"></i></div>
                                             </div>
 												<h4 class="card-title card-title-dash">Lorem ipsum dolor sit amet, consectetur adipiscing elit, </h4>											
                                             </div>
@@ -240,7 +240,7 @@
 										<div class="col-lg-12">
 											<div>
                                             <div class="d-flex justify-content-between align-items-center mb-4">
-                                            <div class="flag_general">InProgress</div>
+                                            <div class="flag_general">Open</div>
                                                 <div class="status"><i class="bi bi-circle open"></i></div>
                                             </div>
 												<h4 class="card-title card-title-dash">Lorem ipsum dolor sit amet</h4>											
@@ -263,7 +263,7 @@
 										<div class="col-lg-12">
 											<div>
                                             <div class="d-flex justify-content-between align-items-center mb-4">
-                                                <div class="flag_customer">InProgress</div>
+                                                <div class="flag_success">Completed</div>
                                                 <div class="status"><i class="bi bi-check-circle-fill completed"></i></div>
                                             </div>
 												<h4 class="card-title card-title-dash">Lorem ipsum dolor sit amet, consectetur adipiscing elit, </h4>											
@@ -284,7 +284,7 @@
 										<div class="col-lg-12">
 											<div>
                                             <div class="d-flex justify-content-between align-items-center mb-4">
-                                                <div class="flag_general">InProgress</div>
+                                                <div class="flag_general">Open</div>
                                                 <div class="status"><i class="bi bi-circle open"></i></div>
                                             </div>
 												<h4 class="card-title card-title-dash">Lorem ipsum dolor sit amet</h4>											
@@ -307,68 +307,50 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Create New Task</h5>
+        <h5 class="modal-title" id="exampleModalLabel">Create New Note</h5>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body form-group">
-        <div class="d-flex radio-custom mt-3">
-      <div class="form-check me-3 ">
-        <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
-        <label class="form-check-label" for="flexRadioDefault1">
-            General
-        </label>
-        </div>
-        <div class="form-check">
-        <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
-        <label class="form-check-label" for="flexRadioDefault2">
-            Customer
-        </label>
-        </div>
-        </div>
-        <div class="mb-3">
-  <label for="exampleFormControlTextarea1" class="form-label">Select Customer</label>
-        <select class="form-select" aria-label="Default select example">
-            <option selected>Open this select menu</option>
-            <option value="1">One</option>
-            <option value="2">Two</option>
-            <option value="3">Three</option>
-        </select>
-        </div>
+      
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Title</label>
             <input class="form-control" type="text" placeholder="Default input" aria-label="default input example">
         </div>
         
         <div class="mb-3">
-            <label for="exampleFormControlTextarea1" class="form-label">Description</label>
+            <label for="exampleFormControlTextarea1" class="form-label">Note</label>
             <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
         </div>
-        <div class="row">
-        <div class="col">
-        <label for="exampleFormControlTextarea1" class="form-label">Target Date</label>
-		<div class="input-group date" id="datepicker">
-        <input type="text" class="form-control" id="date"/>
-        <span class="input-group-append shadow-cs ">
-          <span class="input-group-text bg-light d-block dp_icon">
-		  <i class="bi bi-calendar-week-fill"></i>
-          </span>
-        </span>
-      </div>
+
+		<div class="form-group">
+		<label for="">Status</label>
+		<div class="d-flex radio-custom mt-3">
+
+      <div class="form-check me-3 ">
+        <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+        <label class="form-check-label" for="flexRadioDefault1">
+            Open
+        </label>
         </div>
-        <div class="col">
-        <label for="exampleFormControlTextarea1" class="form-label">Status</label>
-        <select class="form-select" aria-label="Default select example">
-            <option selected>Select</option>
-            <option value="1">One</option>
-            <option value="2">Two</option>
-            <option value="3">Three</option>
-        </select>
+        <div class="form-check me-3">
+        <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+        <label class="form-check-label" for="flexRadioDefault2">
+            InProgress
+        </label>
+        </div>
+		<div class="form-check">
+        <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+        <label class="form-check-label" for="flexRadioDefault2">
+            Completed
+        </label>
         </div>
         </div>
+		</div>
+		
 
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-primary">Save changes</button>
+        <button type="button" class="btn btn-primary">Submit</button>
       </div>
     </div>
   </div>

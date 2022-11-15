@@ -3,7 +3,7 @@
 <div class="container-fluid remove-margin bg-white">
   <div class="db-top-wrapper">
     <div class="left">
-      <h4>Quotes</h4>
+      <h4>Invoice</h4>
       <ul class="breadcrumb">
         <li><a href="#">Dashboard</a></li>
         <li><a href="#">Task</a></li>
@@ -30,29 +30,35 @@
       </div>
       <button type="button" class="btn btn-primary ms-2 filter-bg" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight"><i class="bi bi-funnel-fill"></i></button>
 
-      <button class="btn btn-primary ms-2"><span><img src="img/create.svg" alt=""></span> Create</button>
+      <a href="invoice-view.php" class="btn btn-secondary ms-2"><span><img src="img/ad-invoice.svg" alt=""></span> Generate Invoice</a>
     </div>
   </div>
 </div>
 <div class="container-fluid page-inner">
+
 <div class="row">
     <div class="col-md-3">
       <div class="card custom-list">
         <div>
-          <div class="quote-message bo-primary ">
+        <div class="form-check sep-po">
+              <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault2">
+              <label class="form-check-label" for="flexCheckDefault2">
+              </label>
+            </div>
+        <div class="quote-message bo-primary">
             <p> <i class="bi bi-hourglass-top"></i> Waiting for Approval</p>
 
           </div>
-
+          
           <h1 class="big-total"> €4,275 </h1>
           <p> <strong> Id: </strong> COMNXT-Q-01 </p>
           <div class="date-wrap fo-flx-js-sb mb-4">
-
+            
             <div>
               <h6><Strong>Created on:</Strong> 11 Oct, 2022</h6>
             </div>
             <div>
-              <i class="bi bi-calendar-fill"></i>
+            <i class="bi bi-calendar-fill"></i>
             </div>
           </div>
           <div class="d-flex card-botm">
@@ -82,22 +88,27 @@
       </div>
     </div>
     <div class="col-md-3">
-      <a href="quotes-view.php" class="card custom-list">
+      <a href="db-order-view.php" class="card custom-list">
         <div>
-          <div class="quote-message bo-success  ">
+        <div class="form-check sep-po">
+              <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault2">
+              <label class="form-check-label" for="flexCheckDefault2">
+              </label>
+            </div>
+        <div class="quote-message bo-success ">
             <p> <i class="bi bi-check-circle-fill"></i> Approved</p>
 
           </div>
-
+          
           <h1 class="big-total"> €4,275 </h1>
           <p> <strong> Id: </strong> COMNXT-Q-01 </p>
           <div class="date-wrap fo-flx-js-sb mb-4">
-
+            
             <div>
               <h6><Strong>Created on:</Strong> 11 Oct, 2022</h6>
             </div>
             <div>
-              <i class="bi bi-calendar-fill"></i>
+            <i class="bi bi-calendar-fill"></i>
             </div>
           </div>
           <div class="d-flex card-botm">
@@ -111,14 +122,8 @@
               </div>
             </div>
             
-            <div class="right d-flex">
-              <div class="avatar-wrapper-list">
-                <img src="img/faces/face23.jpg" class="avatar-med">
-              </div>
-              <div style="overflow:hidden;">
-                <h4 class="cont-desc-sml">Vendor</h4>
-                <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
-              </div>
+            <div class="right d-flex justify-content-end">
+              <img src="img/pdf-li.png" alt="">
             </div>
 
           </div>
@@ -129,20 +134,25 @@
     <div class="col-md-3">
       <div class="card custom-list">
         <div>
-          <div class="quote-message bo-hold ">
+        <div class="form-check sep-po">
+              <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault2">
+              <label class="form-check-label" for="flexCheckDefault2">
+              </label>
+            </div>
+        <div class="quote-message bo-hold ">
             <p> <i class="bi bi-hourglass-top"></i> Hold</p>
 
           </div>
-
+          
           <h1 class="big-total"> €4,275 </h1>
           <p> <strong> Id: </strong> COMNXT-Q-01 </p>
           <div class="date-wrap fo-flx-js-sb mb-4">
-
+            
             <div>
               <h6><Strong>Created on:</Strong> 11 Oct, 2022</h6>
             </div>
             <div>
-              <i class="bi bi-calendar-fill"></i>
+            <i class="bi bi-calendar-fill"></i>
             </div>
           </div>
           <div class="d-flex card-botm">
@@ -171,12 +181,14 @@
 
       </div>
     </div>
+   
 
-
-
+  
 
 
   </div>
+
+
 
   <!-- create user offcanvas -->
   <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">

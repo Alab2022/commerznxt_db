@@ -15,7 +15,14 @@
   margin: 0;
   padding: 0;
 }
-
+a{
+  text-decoration: none;
+  color: unset;
+}
+a:hover{
+  text-decoration: none;
+  color: unset;
+}
 body {
   font-family: "Mulish", sans-serif !important;
   background-color: #fff !important;
@@ -82,7 +89,13 @@ align-items: center;
   display: flex;
   align-items: center;
 }
-
+.btn-warning{
+  color: #fff;
+  background-color: #F9A545 !important;
+}
+.btn-warning:hover{
+  color: #fff;
+}
 .card {
   border: none;
   border-radius: 5px;
@@ -1675,6 +1688,13 @@ padding: 10px;
   position: absolute;
   font-weight: 800;
 }
+.card-botm .left, .right {
+  width: 50%;
+}
+.card-botm .left {
+  border-right: 1px solid #ddd;
+  margin-right: 10px;
+}
 /* distributor Inventory A css ends here///////////////////////////////////////////////////////////////// */
 
 /* Purchase css starts here///////////////////////////////////////////////////////////////// */
@@ -1704,7 +1724,7 @@ padding: 10px;
   margin-bottom: 0;
 }
 .profile-flx-wrapper .details h4 {
-  font-size: 20px;
+  font-size: 18px;
   text-align: center !important;
   color: #4a4949;
 }
@@ -1864,4 +1884,23 @@ color: #fff;
 i.bi.bi-exclamation-circle.text-primary {
   font-size: 40px;
 }
+.sep-po {
+  position: absolute;
+  left: 6px;
+}
+.flag_success{
+background-color: #95dfb0;
+padding: 5px 10px;
+    display: inline-block;
+    color: #133f23;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.task h4.card-title.card-title-dash {
+  color: #63719C;
+}
+p.feed-txt {
+  font-size: 14px;
+  color: #A8A8A8;
+} 
 /* Purchase css ends here///////////////////////////////////////////////////////////////// */

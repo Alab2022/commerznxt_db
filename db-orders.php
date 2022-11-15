@@ -3,7 +3,7 @@
 <div class="container-fluid remove-margin bg-white">
   <div class="db-top-wrapper">
     <div class="left">
-      <h4>Quotes</h4>
+      <h4>Total Orders</h4>
       <ul class="breadcrumb">
         <li><a href="#">Dashboard</a></li>
         <li><a href="#">Task</a></li>
@@ -35,7 +35,8 @@
   </div>
 </div>
 <div class="container-fluid page-inner">
-<div class="row">
+
+  <div class="row">
     <div class="col-md-3">
       <div class="card custom-list">
         <div>
@@ -82,9 +83,9 @@
       </div>
     </div>
     <div class="col-md-3">
-      <a href="quotes-view.php" class="card custom-list">
+      <a href="db-order-view.php" class="card custom-list">
         <div>
-          <div class="quote-message bo-success  ">
+          <div class="quote-message bo-success ">
             <p> <i class="bi bi-check-circle-fill"></i> Approved</p>
 
           </div>
@@ -178,6 +179,8 @@
 
   </div>
 
+
+
   <!-- create user offcanvas -->
   <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight" aria-labelledby="offcanvasRightLabel">
     <div class="offcanvas-header">
@@ -186,60 +189,60 @@
     </div>
     <div class="offcanvas-body">
       <div class="accordion-body">
-      <div class="form-group mb-3">
-        <label for="exampleFormControlTextarea1">Status</label>
-        <select class="form-select" aria-label="Default select example">
-          <option selected>Open this select menu</option>
-          <option value="1">One</option>
-          <option value="2">Two</option>
-          <option value="3">Three</option>
-        </select>
-      </div>
+        <div class="form-group mb-3">
+          <label for="exampleFormControlTextarea1">Status</label>
+          <select class="form-select" aria-label="Default select example">
+            <option selected>Open this select menu</option>
+            <option value="1">One</option>
+            <option value="2">Two</option>
+            <option value="3">Three</option>
+          </select>
+        </div>
 
-      <div class="form-group mb-3">
-        <div class="date-picker">
-          <label for="">Date</label>
-          <form action="/action_page.php">
-            <input type="date" id="birthday" name="birthday">
-          </form>
-        </div>
-      </div>
-      <div class="form-group mb-3">
-        <label for="">User Type</label>
-        <div class="d-flex radio-custom mt-3">
-          <div class="form-check me-3 ">
-            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
-            <label class="form-check-label" for="flexRadioDefault1">
-              General
-            </label>
-          </div>
-          <div class="form-check">
-            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
-            <label class="form-check-label" for="flexRadioDefault2">
-              Customer
-            </label>
+        <div class="form-group mb-3">
+          <div class="date-picker">
+            <label for="">Date</label>
+            <form action="/action_page.php">
+              <input type="date" id="birthday" name="birthday">
+            </form>
           </div>
         </div>
+        <div class="form-group mb-3">
+          <label for="">User Type</label>
+          <div class="d-flex radio-custom mt-3">
+            <div class="form-check me-3 ">
+              <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+              <label class="form-check-label" for="flexRadioDefault1">
+                General
+              </label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+              <label class="form-check-label" for="flexRadioDefault2">
+                Customer
+              </label>
+            </div>
+          </div>
+        </div>
+        <div class="form-group mb-3">
+          <label for="exampleFormControlTextarea1" class="form-label">Country</label>
+          <select class="form-select" aria-label="Default select example">
+            <option selected>Open this select menu</option>
+            <option value="1">One</option>
+            <option value="2">Two</option>
+            <option value="3">Three</option>
+          </select>
+        </div>
+        <div class="form-group mb-3">
+          <label for="exampleFormControlTextarea1" class="form-label">State/Provice</label>
+          <select class="form-select" aria-label="Default select example">
+            <option selected>Open this select menu</option>
+            <option value="1">One</option>
+            <option value="2">Two</option>
+            <option value="3">Three</option>
+          </select>
+        </div>
       </div>
-      <div class="form-group mb-3">
-        <label for="exampleFormControlTextarea1" class="form-label">Country</label>
-        <select class="form-select" aria-label="Default select example">
-          <option selected>Open this select menu</option>
-          <option value="1">One</option>
-          <option value="2">Two</option>
-          <option value="3">Three</option>
-        </select>
-      </div>
-      <div class="form-group mb-3">
-        <label for="exampleFormControlTextarea1" class="form-label">State/Provice</label>
-        <select class="form-select" aria-label="Default select example">
-          <option selected>Open this select menu</option>
-          <option value="1">One</option>
-          <option value="2">Two</option>
-          <option value="3">Three</option>
-        </select>
-      </div>
-    </div>
     </div>
     <div class="offcanvas-footer fil-pd">
       <button type="button" class="btn btn-secondary sec-custom">Clear</button>
