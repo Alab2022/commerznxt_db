@@ -17,9 +17,6 @@
 </div>
 
 
-
-
-
 <ul class="nav nav-tabs page-nav" id="myTab" role="tablist">
   <li class="nav-item" role="presentation">
     <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true"><i class="bi bi-star-fill"></i> New</button>
@@ -467,7 +464,7 @@
                     <textarea name="" id="" cols="30" rows="10"></textarea>
 
                     <div class="button-wrapper mt-3 fo-flx-right align-center">
-                      <h6>attachments if any <span><i class="bi bi-paperclip"></i></span></h6>
+                      <p class="mb-0 me-2 d-flex align-items-center">Attachments if any <span><i class="bi bi-paperclip ms-1 lrg"></i></span></p>
                       <button type="button" class="btn btn-secondary mr0-5 btn-sm">Cancel</button>
                       <button type="button" class="btn btn-secondary-light btn-sm">Save</button>
                     </div>
@@ -493,6 +490,7 @@
                                   <div class="tl-content-inner">
                                     <p>The call via google meet went well. He is expecting 20% on product 1 for min 10 qty</p>
                                   </div>
+                                  <p class="mb-0 me-2 d-flex align-items-center mt-1"><a href="#">Attachment 1.pdf</a> <span><i class="bi bi-paperclip ms-1 sml"></i></span></p>
                                 </div>
                               </div>
                               <div class="tl-item">
@@ -1083,7 +1081,7 @@
                   <div class="button-wrapper mt-3 fo-flx-right align-center">
                     <div class="fo-tooltip" data-bs-toggle="tooltip" title="Lorem Ipsum has been the industry's standard">
 
-                      <h6 class="text-primary">Waiting for Approval</h6>
+                      <button type="button" class="btn btn-approval btn-sm me-2" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight-wfa" aria-controls="offcanvasRight-cr">Waiting for Approval</button>
                     </div>
                     <button type="button" class="btn btn-secondary mr1 btn-sm">Create</button>
                     <button type="button" class="btn btn-secondary-light btn-sm">Edit</button>
@@ -2243,4 +2241,50 @@
   <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">3</div>
 </div>
 
+
+<!-- Waiting for approval offcanvas -->
+<div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight-wfa" aria-labelledby="offcanvasRightLabel">
+      <div class="offcanvas-header">
+        <h5 id="offcanvasRightLabel">Waiting for Approval</h5>
+        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
+      <div class="offcanvas-body">
+        <div class="custom-form">
+        <div class="form mb-3">
+          <div class="form-group">
+            <label for="">Credit Period</label>
+            <input type="number" class="shadow-cs">
+          </div>
+        </div>
+        <div class="form-flex fo-flx mb3">
+          <div class="form-group">
+            <label for="">1st Installment</label>
+            <input type="text" class="shadow-cs">
+          </div>
+          <div class="form-check mt-4">
+          <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault5">
+            <label class="form-check-label" for="flexCheckDefault5">
+              Mark as Received
+            </label>
+          </div>
+        </div>
+        <div style="margin-top: 15px;" class="form-flex fo-flx">
+          <div class="form-group">
+            <label for="">2nd Installment</label>
+            <input type="text" class="shadow-cs">
+          </div>
+          <div class="form-check mt-4">
+          <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault6">
+            <label class="form-check-label" for="flexCheckDefault6">
+              Mark as Received
+            </label>
+          </div>
+        </div>
+        </div>
+      </div>
+      <div class="offcanvas-footer fil-pd">
+        <button type="button" class="btn btn-secondary sec-custom">Cancel</button>
+        <button type="button" class="btn btn-primary ms-2 ">Submit</button>
+      </div>
+    </div>
 <?php include('common/footer.php'); ?>

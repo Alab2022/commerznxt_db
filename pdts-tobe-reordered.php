@@ -56,7 +56,7 @@
             <h4>Product List</h4>
             <div class="fo-flx align-center mt-1" style="white-space: nowrap;">
               <div>
-                <h6 class="d-flex align-center mr2">
+                <h6 class="d-flex align-center mr2 dot">
                   <div class="primary-dot mr0-5"></div>Available Quantity
                 </h6>
               </div>
