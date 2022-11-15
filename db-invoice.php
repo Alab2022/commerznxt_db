@@ -67,7 +67,7 @@
                 <img src="img/faces/face23.jpg" class="avatar-med">
               </div>
               <div style="overflow:hidden;">
-                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-desc-sml">Customer</h4>
                 <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
               </div>
             </div>
@@ -77,7 +77,7 @@
                 <img src="img/faces/face23.jpg" class="avatar-med">
               </div>
               <div style="overflow:hidden;">
-                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-desc-sml">Created By</h4>
                 <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
               </div>
             </div>
@@ -88,12 +88,10 @@
       </div>
     </div>
     <div class="col-md-3">
-      <a href="db-order-view.php" class="card custom-list">
+      <a href="invoice-view.php" class="card custom-list">
         <div>
         <div class="form-check sep-po">
-              <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault2">
-              <label class="form-check-label" for="flexCheckDefault2">
-              </label>
+        <img src="img/pdf-li.png" alt="">
             </div>
         <div class="quote-message bo-success ">
             <p> <i class="bi bi-check-circle-fill"></i> Approved</p>
@@ -117,13 +115,19 @@
                 <img src="img/faces/face23.jpg" class="avatar-med">
               </div>
               <div style="overflow:hidden;">
-                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-desc-sml">Customer</h4>
                 <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
               </div>
             </div>
             
-            <div class="right d-flex justify-content-end">
-              <img src="img/pdf-li.png" alt="">
+            <div class="right d-flex">
+            <div class="avatar-wrapper-list">
+                <img src="img/faces/face23.jpg" class="avatar-med">
+              </div>
+              <div style="overflow:hidden;">
+                <h4 class="cont-desc-sml">Created By</h4>
+                <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
+              </div>
             </div>
 
           </div>
@@ -161,7 +165,7 @@
                 <img src="img/faces/face23.jpg" class="avatar-med">
               </div>
               <div style="overflow:hidden;">
-                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-desc-sml">Customer</h4>
                 <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
               </div>
             </div>
@@ -171,7 +175,7 @@
                 <img src="img/faces/face23.jpg" class="avatar-med">
               </div>
               <div style="overflow:hidden;">
-                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-desc-sml">Created By</h4>
                 <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
               </div>
             </div>

@@ -62,7 +62,7 @@
                 <img src="img/faces/face23.jpg" class="avatar-med">
               </div>
               <div style="overflow:hidden;">
-                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-desc-sml">Customer</h4>
                 <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
               </div>
             </div>
@@ -72,7 +72,7 @@
                 <img src="img/faces/face23.jpg" class="avatar-med">
               </div>
               <div style="overflow:hidden;">
-                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-desc-sml">Created By</h4>
                 <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
               </div>
             </div>
@@ -107,7 +107,7 @@
                 <img src="img/faces/face23.jpg" class="avatar-med">
               </div>
               <div style="overflow:hidden;">
-                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-desc-sml">Customer</h4>
                 <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
               </div>
             </div>
@@ -117,7 +117,7 @@
                 <img src="img/faces/face23.jpg" class="avatar-med">
               </div>
               <div style="overflow:hidden;">
-                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-desc-sml">Created By</h4>
                 <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
               </div>
             </div>
@@ -152,7 +152,7 @@
                 <img src="img/faces/face23.jpg" class="avatar-med">
               </div>
               <div style="overflow:hidden;">
-                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-desc-sml">Customer</h4>
                 <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
               </div>
             </div>
@@ -162,7 +162,7 @@
                 <img src="img/faces/face23.jpg" class="avatar-med">
               </div>
               <div style="overflow:hidden;">
-                <h4 class="cont-desc-sml">Vendor</h4>
+                <h4 class="cont-desc-sml">Created By</h4>
                 <h4 class="cont-name-sml">Feliciaamenda Joheph </h4>
               </div>
             </div>
