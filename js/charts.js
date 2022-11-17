@@ -83,6 +83,7 @@
 //   options: pieOptions
 // });
 
+
 FusionCharts.ready(function(){
   var chartObj = new FusionCharts({
 type: 'doughnut2d',

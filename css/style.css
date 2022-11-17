@@ -274,6 +274,7 @@ h5 {
 .btn.btn-secondary-light {
   background: #98B694;
   color: #fff;
+  padding: 4px 15px;
 }
 .btn.btn-secondary-light:hover {
   background: #7f9b7b;
@@ -1616,7 +1617,7 @@ text-align: left;
   max-height: 100%;
 }
 h4.list-heading {
-  font-size: 16px;
+  font-size: 15px;
   text-align: center;
   font-weight: 600;
 }
