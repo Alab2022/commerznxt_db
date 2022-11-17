@@ -53,99 +53,99 @@
               <button type="button" class="btn btn-primary ms-2 d-flex align-items-center plus" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight"><i class="bi bi-plus"></i> Add</button>
             </div>
             <div class="followup-wrapper mt-3 st-height-customer">
-            <div class="name_filter">Aasas</div>
-            <ul class="cont-list">
-              <li>
-                <a class="d-flex justify-content-between align-items-center" href="#">
-                  <div class="d-flex">
-                    <div class="avatar-wrapper">
-                      <img src="img/faces/face23.jpg" class="avatar-med" />
+              <div class="name_filter">Aasas</div>
+              <ul class="cont-list">
+                <li>
+                  <a class="d-flex justify-content-between align-items-center" href="#">
+                    <div class="d-flex">
+                      <div class="avatar-wrapper">
+                        <img src="img/faces/face23.jpg" class="avatar-med" />
+                      </div>
+                      <div>
+                        <h4 class="cont-name-sml">Amelia</h4>
+                        <h4 class="cont-desc-sml">Sales Executive</h4>
+                      </div>
                     </div>
-                    <div>
-                      <h4 class="cont-name-sml">Amelia</h4>
-                      <h4 class="cont-desc-sml">Sales Executive</h4>
+                    <i class="bi bi-chevron-right"></i>
+                  </a>
+                </li>
+                <li>
+                  <a class="d-flex justify-content-between align-items-center" href="#">
+                    <div class="d-flex">
+                      <div class="avatar-wrapper">
+                        <img src="img/faces/face23.jpg" class="avatar-med" />
+                      </div>
+                      <div>
+                        <h4 class="cont-name-sml">Amelia</h4>
+                        <h4 class="cont-desc-sml">Sales Executive</h4>
+                      </div>
                     </div>
-                  </div>
-                  <i class="bi bi-chevron-right"></i>
-                </a>
-              </li>
-              <li>
-                <a class="d-flex justify-content-between align-items-center" href="#">
-                  <div class="d-flex">
-                    <div class="avatar-wrapper">
-                      <img src="img/faces/face23.jpg" class="avatar-med" />
+                    <i class="bi bi-chevron-right"></i>
+                  </a>
+                </li>
+                <li>
+                  <a class="d-flex justify-content-between align-items-center" href="#">
+                    <div class="d-flex">
+                      <div class="avatar-wrapper">
+                        <img src="img/faces/face23.jpg" class="avatar-med" />
+                      </div>
+                      <div>
+                        <h4 class="cont-name-sml">Amelia</h4>
+                        <h4 class="cont-desc-sml">Sales Executive</h4>
+                      </div>
                     </div>
-                    <div>
-                      <h4 class="cont-name-sml">Amelia</h4>
-                      <h4 class="cont-desc-sml">Sales Executive</h4>
+                    <i class="bi bi-chevron-right"></i>
+                  </a>
+                </li>
+              </ul>
+              <div class="name_filter">B</div>
+              <ul class="cont-list">
+                <li>
+                  <a class="d-flex justify-content-between align-items-center" href="#">
+                    <div class="d-flex">
+                      <div class="avatar-wrapper">
+                        <img src="img/faces/face23.jpg" class="avatar-med" />
+                      </div>
+                      <div>
+                        <h4 class="cont-name-sml">Amelia</h4>
+                        <h4 class="cont-desc-sml">Sales Executive</h4>
+                      </div>
                     </div>
-                  </div>
-                  <i class="bi bi-chevron-right"></i>
-                </a>
-              </li>
-              <li>
-                <a class="d-flex justify-content-between align-items-center" href="#">
-                  <div class="d-flex">
-                    <div class="avatar-wrapper">
-                      <img src="img/faces/face23.jpg" class="avatar-med" />
+                    <i class="bi bi-chevron-right"></i>
+                  </a>
+                </li>
+                <li>
+                  <a class="d-flex justify-content-between align-items-center" href="#">
+                    <div class="d-flex">
+                      <div class="avatar-wrapper">
+                        <img src="img/faces/face23.jpg" class="avatar-med" />
+                      </div>
+                      <div>
+                        <h4 class="cont-name-sml">Amelia</h4>
+                        <h4 class="cont-desc-sml">Sales Executive</h4>
+                      </div>
                     </div>
-                    <div>
-                      <h4 class="cont-name-sml">Amelia</h4>
-                      <h4 class="cont-desc-sml">Sales Executive</h4>
+                    <i class="bi bi-chevron-right"></i>
+                  </a>
+                </li>
+                <li>
+                  <a class="d-flex justify-content-between align-items-center" href="#">
+                    <div class="d-flex">
+                      <div class="avatar-wrapper">
+                        <img src="img/faces/face23.jpg" class="avatar-med" />
+                      </div>
+                      <div>
+                        <h4 class="cont-name-sml">Amelia</h4>
+                        <h4 class="cont-desc-sml">Sales Executive</h4>
+                      </div>
                     </div>
-                  </div>
-                  <i class="bi bi-chevron-right"></i>
-                </a>
-              </li>
-            </ul>
-            <div class="name_filter">B</div>
-            <ul class="cont-list">
-              <li>
-                <a class="d-flex justify-content-between align-items-center" href="#">
-                  <div class="d-flex">
-                    <div class="avatar-wrapper">
-                      <img src="img/faces/face23.jpg" class="avatar-med" />
-                    </div>
-                    <div>
-                      <h4 class="cont-name-sml">Amelia</h4>
-                      <h4 class="cont-desc-sml">Sales Executive</h4>
-                    </div>
-                  </div>
-                  <i class="bi bi-chevron-right"></i>
-                </a>
-              </li>
-              <li>
-                <a class="d-flex justify-content-between align-items-center" href="#">
-                  <div class="d-flex">
-                    <div class="avatar-wrapper">
-                      <img src="img/faces/face23.jpg" class="avatar-med" />
-                    </div>
-                    <div>
-                      <h4 class="cont-name-sml">Amelia</h4>
-                      <h4 class="cont-desc-sml">Sales Executive</h4>
-                    </div>
-                  </div>
-                  <i class="bi bi-chevron-right"></i>
-                </a>
-              </li>
-              <li>
-                <a class="d-flex justify-content-between align-items-center" href="#">
-                  <div class="d-flex">
-                    <div class="avatar-wrapper">
-                      <img src="img/faces/face23.jpg" class="avatar-med" />
-                    </div>
-                    <div>
-                      <h4 class="cont-name-sml">Amelia</h4>
-                      <h4 class="cont-desc-sml">Sales Executive</h4>
-                    </div>
-                  </div>
-                  <i class="bi bi-chevron-right"></i>
-                </a>
-              </li>
-            </ul>
-            
+                    <i class="bi bi-chevron-right"></i>
+                  </a>
+                </li>
+              </ul>
+
             </div>
-            
+
           </div>
         </div>
 
@@ -160,96 +160,96 @@
               <button type="button" class="btn btn-primary ms-2 d-flex align-items-center plus" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight"><i class="bi bi-plus"></i> Add</button>
             </div>
             <div class="followup-wrapper mt-3 st-height-customer">
-            <div class="name_filter">A</div>
-            <ul class="cont-list">
-              <li>
-                <a class="d-flex justify-content-between align-items-center" href="#">
-                  <div class="d-flex">
-                    <div class="avatar-wrapper">
-                      <img src="img/faces/face23.jpg" class="avatar-med" />
+              <div class="name_filter">A</div>
+              <ul class="cont-list">
+                <li>
+                  <a class="d-flex justify-content-between align-items-center" href="#">
+                    <div class="d-flex">
+                      <div class="avatar-wrapper">
+                        <img src="img/faces/face23.jpg" class="avatar-med" />
+                      </div>
+                      <div>
+                        <h4 class="cont-name-sml">Amelia</h4>
+                        <h4 class="cont-desc-sml">Sales Executive</h4>
+                      </div>
                     </div>
-                    <div>
-                      <h4 class="cont-name-sml">Amelia</h4>
-                      <h4 class="cont-desc-sml">Sales Executive</h4>
+                    <i class="bi bi-chevron-right"></i>
+                  </a>
+                </li>
+                <li>
+                  <a class="d-flex justify-content-between align-items-center" href="#">
+                    <div class="d-flex">
+                      <div class="avatar-wrapper">
+                        <img src="img/faces/face23.jpg" class="avatar-med" />
+                      </div>
+                      <div>
+                        <h4 class="cont-name-sml">Amelia</h4>
+                        <h4 class="cont-desc-sml">Sales Executive</h4>
+                      </div>
                     </div>
-                  </div>
-                  <i class="bi bi-chevron-right"></i>
-                </a>
-              </li>
-              <li>
-                <a class="d-flex justify-content-between align-items-center" href="#">
-                  <div class="d-flex">
-                    <div class="avatar-wrapper">
-                      <img src="img/faces/face23.jpg" class="avatar-med" />
+                    <i class="bi bi-chevron-right"></i>
+                  </a>
+                </li>
+                <li>
+                  <a class="d-flex justify-content-between align-items-center" href="#">
+                    <div class="d-flex">
+                      <div class="avatar-wrapper">
+                        <img src="img/faces/face23.jpg" class="avatar-med" />
+                      </div>
+                      <div>
+                        <h4 class="cont-name-sml">Amelia</h4>
+                        <h4 class="cont-desc-sml">Sales Executive</h4>
+                      </div>
                     </div>
-                    <div>
-                      <h4 class="cont-name-sml">Amelia</h4>
-                      <h4 class="cont-desc-sml">Sales Executive</h4>
+                    <i class="bi bi-chevron-right"></i>
+                  </a>
+                </li>
+              </ul>
+              <div class="name_filter">B</div>
+              <ul class="cont-list">
+                <li>
+                  <a class="d-flex justify-content-between align-items-center" href="#">
+                    <div class="d-flex">
+                      <div class="avatar-wrapper">
+                        <img src="img/faces/face23.jpg" class="avatar-med" />
+                      </div>
+                      <div>
+                        <h4 class="cont-name-sml">Amelia</h4>
+                        <h4 class="cont-desc-sml">Sales Executive</h4>
+                      </div>
                     </div>
-                  </div>
-                  <i class="bi bi-chevron-right"></i>
-                </a>
-              </li>
-              <li>
-                <a class="d-flex justify-content-between align-items-center" href="#">
-                  <div class="d-flex">
-                    <div class="avatar-wrapper">
-                      <img src="img/faces/face23.jpg" class="avatar-med" />
+                    <i class="bi bi-chevron-right"></i>
+                  </a>
+                </li>
+                <li>
+                  <a class="d-flex justify-content-between align-items-center" href="#">
+                    <div class="d-flex">
+                      <div class="avatar-wrapper">
+                        <img src="img/faces/face23.jpg" class="avatar-med" />
+                      </div>
+                      <div>
+                        <h4 class="cont-name-sml">Amelia</h4>
+                        <h4 class="cont-desc-sml">Sales Executive</h4>
+                      </div>
                     </div>
-                    <div>
-                      <h4 class="cont-name-sml">Amelia</h4>
-                      <h4 class="cont-desc-sml">Sales Executive</h4>
+                    <i class="bi bi-chevron-right"></i>
+                  </a>
+                </li>
+                <li>
+                  <a class="d-flex justify-content-between align-items-center" href="#">
+                    <div class="d-flex">
+                      <div class="avatar-wrapper">
+                        <img src="img/faces/face23.jpg" class="avatar-med" />
+                      </div>
+                      <div>
+                        <h4 class="cont-name-sml">Amelia</h4>
+                        <h4 class="cont-desc-sml">Sales Executive</h4>
+                      </div>
                     </div>
-                  </div>
-                  <i class="bi bi-chevron-right"></i>
-                </a>
-              </li>
-            </ul>
-            <div class="name_filter">B</div>
-            <ul class="cont-list">
-              <li>
-                <a class="d-flex justify-content-between align-items-center" href="#">
-                  <div class="d-flex">
-                    <div class="avatar-wrapper">
-                      <img src="img/faces/face23.jpg" class="avatar-med" />
-                    </div>
-                    <div>
-                      <h4 class="cont-name-sml">Amelia</h4>
-                      <h4 class="cont-desc-sml">Sales Executive</h4>
-                    </div>
-                  </div>
-                  <i class="bi bi-chevron-right"></i>
-                </a>
-              </li>
-              <li>
-                <a class="d-flex justify-content-between align-items-center" href="#">
-                  <div class="d-flex">
-                    <div class="avatar-wrapper">
-                      <img src="img/faces/face23.jpg" class="avatar-med" />
-                    </div>
-                    <div>
-                      <h4 class="cont-name-sml">Amelia</h4>
-                      <h4 class="cont-desc-sml">Sales Executive</h4>
-                    </div>
-                  </div>
-                  <i class="bi bi-chevron-right"></i>
-                </a>
-              </li>
-              <li>
-                <a class="d-flex justify-content-between align-items-center" href="#">
-                  <div class="d-flex">
-                    <div class="avatar-wrapper">
-                      <img src="img/faces/face23.jpg" class="avatar-med" />
-                    </div>
-                    <div>
-                      <h4 class="cont-name-sml">Amelia</h4>
-                      <h4 class="cont-desc-sml">Sales Executive</h4>
-                    </div>
-                  </div>
-                  <i class="bi bi-chevron-right"></i>
-                </a>
-              </li>
-            </ul>
+                    <i class="bi bi-chevron-right"></i>
+                  </a>
+                </li>
+              </ul>
             </div>
 
 
@@ -1269,22 +1269,22 @@
                             <h1 class="big-total"> €4,275 </h1>
                             <p> <strong> Id: </strong> COMNXT-Q-01 </p>
 
-                            <div class="d-flex card-botm">          
-          <div class="d-flex">
-                    <div class="avatar-wrapper">
-                      <img src="img/faces/face23.jpg" class="avatar-med">
-                    </div>
-                    <div>
-                      <h4 class="cont-name-sml">Amelia adassd</h4>
-                      <h4 class="cont-desc-sml">Customer</h4>
-                    </div>
-                  </div>
-                  <div class="form-check">
-            <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault2">
-            <label class="form-check-label" for="flexCheckDefault2">
-            </label>
-          </div>                  
-          </div>
+                            <div class="d-flex card-botm">
+                              <div class="d-flex">
+                                <div class="avatar-wrapper">
+                                  <img src="img/faces/face23.jpg" class="avatar-med">
+                                </div>
+                                <div>
+                                  <h4 class="cont-name-sml">Amelia adassd</h4>
+                                  <h4 class="cont-desc-sml">Customer</h4>
+                                </div>
+                              </div>
+                              <div class="form-check">
+                                <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault2">
+                                <label class="form-check-label" for="flexCheckDefault2">
+                                </label>
+                              </div>
+                            </div>
                           </div>
 
                         </div>
@@ -1299,22 +1299,22 @@
                             <h1 class="big-total"> €4,275 </h1>
                             <p> <strong> Id: </strong> COMNXT-Q-01 </p>
 
-                            <div class="d-flex card-botm">          
-          <div class="d-flex">
-                    <div class="avatar-wrapper">
-                      <img src="img/faces/face23.jpg" class="avatar-med">
-                    </div>
-                    <div>
-                      <h4 class="cont-name-sml">Amelia</h4>
-                      <h4 class="cont-desc-sml">Customer</h4>
-                    </div>
-                  </div>
-                  <div class="form-check">
-            <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault3">
-            <label class="form-check-label" for="flexCheckDefault3">
-            </label>
-          </div>                  
-          </div>
+                            <div class="d-flex card-botm">
+                              <div class="d-flex">
+                                <div class="avatar-wrapper">
+                                  <img src="img/faces/face23.jpg" class="avatar-med">
+                                </div>
+                                <div>
+                                  <h4 class="cont-name-sml">Amelia</h4>
+                                  <h4 class="cont-desc-sml">Customer</h4>
+                                </div>
+                              </div>
+                              <div class="form-check">
+                                <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault3">
+                                <label class="form-check-label" for="flexCheckDefault3">
+                                </label>
+                              </div>
+                            </div>
                           </div>
 
                         </div>
@@ -1329,22 +1329,22 @@
                             <h1 class="big-total"> €4,275 </h1>
                             <p> <strong> Id: </strong> COMNXT-Q-01 </p>
 
-                            <div class="d-flex card-botm">          
-          <div class="d-flex">
-                    <div class="avatar-wrapper">
-                      <img src="img/faces/face23.jpg" class="avatar-med">
-                    </div>
-                    <div>
-                      <h4 class="cont-name-sml">Amelia</h4>
-                      <h4 class="cont-desc-sml">Customer</h4>
-                    </div>
-                  </div>
-                  <div class="form-check">
-            <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault4">
-            <label class="form-check-label" for="flexCheckDefault4">
-            </label>
-          </div>                  
-          </div>
+                            <div class="d-flex card-botm">
+                              <div class="d-flex">
+                                <div class="avatar-wrapper">
+                                  <img src="img/faces/face23.jpg" class="avatar-med">
+                                </div>
+                                <div>
+                                  <h4 class="cont-name-sml">Amelia</h4>
+                                  <h4 class="cont-desc-sml">Customer</h4>
+                                </div>
+                              </div>
+                              <div class="form-check">
+                                <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault4">
+                                <label class="form-check-label" for="flexCheckDefault4">
+                                </label>
+                              </div>
+                            </div>
                           </div>
 
                         </div>
@@ -1359,22 +1359,22 @@
                             <h1 class="big-total"> €4,275 </h1>
                             <p> <strong> Id: </strong> COMNXT-Q-01 </p>
 
-                            <div class="d-flex card-botm">          
-          <div class="d-flex">
-                    <div class="avatar-wrapper">
-                      <img src="img/faces/face23.jpg" class="avatar-med">
-                    </div>
-                    <div>
-                      <h4 class="cont-name-sml">Amelia</h4>
-                      <h4 class="cont-desc-sml">Customer</h4>
-                    </div>
-                  </div>
-                  <div class="form-check">
-            <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault2">
-            <label class="form-check-label" for="flexCheckDefault2">
-            </label>
-          </div>                  
-          </div>
+                            <div class="d-flex card-botm">
+                              <div class="d-flex">
+                                <div class="avatar-wrapper">
+                                  <img src="img/faces/face23.jpg" class="avatar-med">
+                                </div>
+                                <div>
+                                  <h4 class="cont-name-sml">Amelia</h4>
+                                  <h4 class="cont-desc-sml">Customer</h4>
+                                </div>
+                              </div>
+                              <div class="form-check">
+                                <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault2">
+                                <label class="form-check-label" for="flexCheckDefault2">
+                                </label>
+                              </div>
+                            </div>
                           </div>
 
                         </div>
@@ -1389,22 +1389,22 @@
                             <h1 class="big-total"> €4,275 </h1>
                             <p> <strong> Id: </strong> COMNXT-Q-01 </p>
 
-                            <div class="d-flex card-botm">          
-          <div class="d-flex">
-                    <div class="avatar-wrapper">
-                      <img src="img/faces/face23.jpg" class="avatar-med">
-                    </div>
-                    <div>
-                      <h4 class="cont-name-sml">Amelia</h4>
-                      <h4 class="cont-desc-sml">Customer</h4>
-                    </div>
-                  </div>
-                  <div class="form-check">
-            <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault2">
-            <label class="form-check-label" for="flexCheckDefault2">
-            </label>
-          </div>                  
-          </div>
+                            <div class="d-flex card-botm">
+                              <div class="d-flex">
+                                <div class="avatar-wrapper">
+                                  <img src="img/faces/face23.jpg" class="avatar-med">
+                                </div>
+                                <div>
+                                  <h4 class="cont-name-sml">Amelia</h4>
+                                  <h4 class="cont-desc-sml">Customer</h4>
+                                </div>
+                              </div>
+                              <div class="form-check">
+                                <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault2">
+                                <label class="form-check-label" for="flexCheckDefault2">
+                                </label>
+                              </div>
+                            </div>
                           </div>
 
                         </div>
@@ -1419,22 +1419,22 @@
                             <h1 class="big-total"> €4,275 </h1>
                             <p> <strong> Id: </strong> COMNXT-Q-01 </p>
 
-                            <div class="d-flex card-botm">          
-          <div class="d-flex">
-                    <div class="avatar-wrapper">
-                      <img src="img/faces/face23.jpg" class="avatar-med">
-                    </div>
-                    <div>
-                      <h4 class="cont-name-sml">Amelia</h4>
-                      <h4 class="cont-desc-sml">Customer</h4>
-                    </div>
-                  </div>
-                  <div class="form-check">
-            <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault2">
-            <label class="form-check-label" for="flexCheckDefault2">
-            </label>
-          </div>                  
-          </div>
+                            <div class="d-flex card-botm">
+                              <div class="d-flex">
+                                <div class="avatar-wrapper">
+                                  <img src="img/faces/face23.jpg" class="avatar-med">
+                                </div>
+                                <div>
+                                  <h4 class="cont-name-sml">Amelia</h4>
+                                  <h4 class="cont-desc-sml">Customer</h4>
+                                </div>
+                              </div>
+                              <div class="form-check">
+                                <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault2">
+                                <label class="form-check-label" for="flexCheckDefault2">
+                                </label>
+                              </div>
+                            </div>
                           </div>
 
                         </div>
@@ -1976,7 +1976,7 @@
                         <div class="col-lg-12">
                           <div class="timeline mb-4">
 
-                        
+
                             <div class="tl-item">
                               <div class="tl-dot b-sms"><i class="bi bi-check-square-fill"></i></div>
                               <div class="tl-content">
@@ -2172,24 +2172,24 @@
 
         </div>
       </div>
-        <div class="offcanvas-footer fil-pd">
+      <div class="offcanvas-footer fil-pd">
 
         <button type="button" class="btn btn-primary" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">Save</button>
       </div>
-      </div>
-
     </div>
 
-    <!-- create user offcanvas -->
-    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight-cr" aria-labelledby="offcanvasRightLabel">
-      <div class="offcanvas-header">
-        <h5 id="offcanvasRightLabel">Payment Plan</h5>
-        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-      </div>
-      <div class="offcanvas-body">
-        <div class="custom-form">
+  </div>
 
-        
+  <!-- create user offcanvas -->
+  <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight-cr" aria-labelledby="offcanvasRightLabel">
+    <div class="offcanvas-header">
+      <h5 id="offcanvasRightLabel">Payment Plan</h5>
+      <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+      <div class="custom-form">
+
+
 
         <div class="form mb-3">
           <label for="">Total Amount</label>
@@ -2211,7 +2211,7 @@
             <input type="text" class="shadow-cs">
           </div>
           <div class="form-check mt-4">
-          <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault5">
+            <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault5">
             <label class="form-check-label" for="flexCheckDefault5">
               Mark as Received
             </label>
@@ -2223,68 +2223,57 @@
             <input type="text" class="shadow-cs">
           </div>
           <div class="form-check mt-4">
-          <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault6">
+            <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault6">
             <label class="form-check-label" for="flexCheckDefault6">
               Mark as Received
             </label>
           </div>
         </div>
-        </div>
-      </div>
-      <div class="offcanvas-footer fil-pd">
-        <button type="button" class="btn btn-secondary sec-custom">Cancel</button>
-        <button type="button" class="btn btn-primary ms-2 ">Submit</button>
       </div>
     </div>
+    <div class="offcanvas-footer fil-pd">
+      <button type="button" class="btn btn-secondary sec-custom">Cancel</button>
+      <button type="button" class="btn btn-primary ms-2 ">Submit</button>
+    </div>
   </div>
-  <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">2</div>
-  <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">3</div>
+</div>
+<div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">2</div>
+<div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">3</div>
 </div>
 
 
 <!-- Waiting for approval offcanvas -->
 <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight-wfa" aria-labelledby="offcanvasRightLabel">
-      <div class="offcanvas-header">
-        <h5 id="offcanvasRightLabel">Waiting for Approval</h5>
-        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-      </div>
-      <div class="offcanvas-body">
-        <div class="custom-form">
-        <div class="form mb-3">
-          <div class="form-group">
-            <label for="">Credit Period</label>
-            <input type="number" class="shadow-cs">
-          </div>
+  <div class="offcanvas-header">
+    <h5 id="offcanvasRightLabel">Waiting for Approval</h5>
+    <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+  </div>
+  <div class="offcanvas-body">
+    <div class="custom-form">
+    <div class="form-group">
+          <label for="">Requested by</label>
+          <input type="text" class="shadow-cs">
         </div>
-        <div class="form-flex fo-flx mb3">
-          <div class="form-group">
-            <label for="">1st Installment</label>
-            <input type="text" class="shadow-cs">
-          </div>
-          <div class="form-check mt-4">
-          <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault5">
-            <label class="form-check-label" for="flexCheckDefault5">
-              Mark as Received
-            </label>
-          </div>
-        </div>
-        <div style="margin-top: 15px;" class="form-flex fo-flx">
-          <div class="form-group">
-            <label for="">2nd Installment</label>
-            <input type="text" class="shadow-cs">
-          </div>
-          <div class="form-check mt-4">
-          <input class="form-check-input special" type="checkbox" value="" id="flexCheckDefault6">
-            <label class="form-check-label" for="flexCheckDefault6">
-              Mark as Received
-            </label>
-          </div>
-        </div>
+      <div class="check-box mb3 mt-3">
+      <div class="form-check d-flex me-3 ">
+        <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+        <label class="form-check-label" for="flexRadioDefault1">
+            Open
+        </label>
         </div>
       </div>
-      <div class="offcanvas-footer fil-pd">
-        <button type="button" class="btn btn-secondary sec-custom">Cancel</button>
-        <button type="button" class="btn btn-primary ms-2 ">Submit</button>
-      </div>
-    </div>
+      
+        <div class="form-group">
+          <label for="">Comments</label>
+          <textarea class="w-100" name="" id="" cols="30" rows="10"></textarea>
+        </div>
+       
+      
+
+  </div>
+  <div class="offcanvas-footer fil-pd">
+    <button type="button" class="btn btn-secondary sec-custom">Cancel</button>
+    <button type="button" class="btn btn-primary ms-2 ">Submit</button>
+  </div>
+</div>
 <?php include('common/footer.php'); ?>
