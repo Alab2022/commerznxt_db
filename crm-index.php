@@ -2249,19 +2249,34 @@
     <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
   </div>
   <div class="offcanvas-body">
-    <div class="custom-form">
-    <div class="form-group">
+    <div class="custom-form ">
+    <div class="form-group  mt-2">
           <label for="">Requested by</label>
           <input type="text" class="shadow-cs">
         </div>
-      <div class="check-box mb3 mt-3">
-      <div class="form-check d-flex me-3 ">
-        <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
-        <label class="form-check-label" for="flexRadioDefault1">
-            Open
-        </label>
-        </div>
-      </div>
+        <div class="d-flex radio-custom mt-4">
+
+<div class="form-check me-3 inp_holder">
+  <input class="form-check-input colum" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+  <label class="form-check-label colum" for="flexRadioDefault1"></label>
+  <div class="title">Approve</div>
+  </div>
+  <div class="form-check me-3 inp_holder">
+  <input class="form-check-input colum" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+  <label class="form-check-label colum" for="flexRadioDefault2"></label>
+  <div class="title">Reject</div>
+  </div>
+<div class="form-check inp_holder">
+  <input class="form-check-input colum" type="radio" name="flexRadioDefault" id="flexRadioDefault3">
+  <label class="form-check-label colum" for="flexRadioDefault3"></label>
+  <div class="title">Hold</div>
+  </div>
+  <div class="form-check inp_holder">
+  <input class="form-check-input colum" type="radio" name="flexRadioDefault" id="flexRadioDefault4">
+  <label class="form-check-label colum" for="flexRadioDefault4"></label>
+  <div class="title">Redo</div>
+  </div>
+  </div>
       
         <div class="form-group">
           <label for="">Comments</label>
