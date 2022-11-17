@@ -879,6 +879,10 @@ input[type="radio"] + label {
   margin-right: 15px;
   font-size: 13px;
 }
+input.colum[type="radio"] + label.colum {
+  display: initial!important;
+  margin-right: 25px!important;
+}
 input[type="radio"] + label:before {
   content: "";
     display: block;
@@ -1103,6 +1107,20 @@ button.btn.btn-approval:focus {
   color: #fff;
 }
 
+.inp_holder {
+  display: flex;
+  flex-direction: column;
+  width: 80px;
+  align-items: center;
+  justify-content: center;
+}
+.inp_holder .title{
+  margin-top: 20px
+}
+input.colum[type="radio"] + label.colum:before, 
+input.colum[type="radio"]:checked + label.colum:after {
+  left: 50%;
+}
 
 
 
