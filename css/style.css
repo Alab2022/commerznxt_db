@@ -1904,3 +1904,16 @@ p.feed-txt {
   color: #A8A8A8;
 } 
 /* Purchase css ends here///////////////////////////////////////////////////////////////// */
+
+/* Common */
+
+.check-box label.form-check-label {
+  margin-top: 30px;
+  padding-left: 0;
+}
+.custom-form textarea {
+  box-shadow: 0 0.1rem 0.1rem rgb(0 0 0 / 4%) !important;
+  border-radius: 5px;
+  border: 1px solid #ced4da;
+  max-height: 100px;
+}
