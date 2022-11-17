@@ -2271,6 +2271,7 @@
       
 
   </div>
+  </div>
   <div class="offcanvas-footer fil-pd">
     <button type="button" class="btn btn-secondary sec-custom">Cancel</button>
     <button type="button" class="btn btn-primary ms-2 ">Submit</button>
