@@ -1903,6 +1903,88 @@ p.feed-txt {
   font-size: 14px;
   color: #A8A8A8;
 } 
+
+.id-wrapper {
+  background: #f15a29;
+  padding: 20px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  height: 100px;
+}
+.id-wrapper h5{
+  color: #fff !important;
+  font-size: 14px !important;
+}
+.ven-details h1 {
+    color: #63719C;
+    font-size: 30px;
+    font-weight: 700;
+}
+.ven-details h4 {
+  font-size: 22px;
+  color: #585858;
+  margin-bottom: 0;
+}
+.ven-details p {
+  font-size: 12px;
+  color: #a6a6a6;
+  margin-bottom: 8px;
+}
+h4.ven-heading-cm {
+  font-size: 24px;
+  margin-bottom: 15px;
+  color: #1b1515;
+}
+.all-vendors-list .details h3 {
+  color: #fff;
+  text-align: center;
+}
+.all-vendors-list .details h6 {
+  color: #fff;
+  text-align: center;
+}
+.all-vendors-list .details h4 {
+  color: #fff;
+  text-align: center;
+}
+.all-vendors-list .details p {
+  color: #fff;
+  text-align: center;
+}
+.all-vendors-list .details h4 {
+  color: #fff;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+  transition: all 0.3s ease-out;
+}
+.ven-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.vendor-hover {
+  position: absolute;
+  background-color: #63719C;
+  opacity: 90%;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+  display: none;
+ 
+}
+.top-vendors .card.card-pd:hover .vendor-hover {
+  display: block;
+}
+.ven-btn .btn {
+  height: 35px;
+}
 /* Purchase css ends here///////////////////////////////////////////////////////////////// */
 
 /* Common */
