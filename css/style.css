@@ -1999,3 +1999,16 @@ h4.ven-heading-cm {
   border: 1px solid #ced4da;
   max-height: 100px;
 }
+
+div#newlead .card-heading .right {
+  width: auto !important;
+}
+.md-padding{
+  padding: 20px 30px !important;
+}
+.form-check .form-check-input{
+  margin-left: unset;
+}
+.modal-footer {
+  padding: 15px 30px !important;
+}

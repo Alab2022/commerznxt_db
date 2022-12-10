@@ -10,16 +10,19 @@
         <li><a href="#">Customer Status Overview</a></li>
       </ul>
     </div>
-    <div class="right"><a class="btn btn-primary d-sm-none" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample">
-        Link
-      </a></div>
+    <div class="right">
+      <button type="button" class="btn btn-primary"><span><i class="bi bi-filetype-csv"></i></span> Export as CSV</button>
+    </div>
   </div>
 </div>
 
 
 <ul class="nav nav-tabs page-nav" id="myTab" role="tablist">
   <li class="nav-item" role="presentation">
-    <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true"><i class="bi bi-star-fill"></i> New</button>
+    <button class="nav-link active" id="newlead-tab" data-bs-toggle="tab" data-bs-target="#newlead" type="button" role="tab" aria-controls="newlead" aria-selected="true"><i class="bi bi-person-plus-fill"></i> New Lead</button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button class="nav-link" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="false"><i class="bi bi-star-fill"></i> New</button>
   </li>
   <li class="nav-item" role="presentation">
     <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile" type="button" role="tab" aria-controls="profile" aria-selected="false"><i class="bi bi-circle-half"></i> In Progress</button>
@@ -34,8 +37,126 @@
     <button class="nav-link" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact" type="button" role="tab" aria-controls="contact" aria-selected="false"><i class="bi bi-shield-slash-fill"></i> Lost</button>
   </li>
 </ul>
+
 <div class="tab-content tab-page" id="myTabContent">
-  <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+  <div class="tab-pane fade show active" id="newlead" role="tabpanel" aria-labelledby="newlead-tab">
+    <div class="card card-pd">
+      <div class="card-heading fo-flx-sb-bl">
+        <h4>Stock</h4>
+        <div class="right d-flex" style="white-space: nowrap;">
+          <div class="form-group ms-2 d-flex align-center">
+            <h6 class="mr1" style="margin-bottom: 0;">Show</h6>
+            <div class="dropdown">
+              <span><i class="bi bi-chevron-down"></i></span>
+              <button class="btn btn-secondary dropdown-toggle fl-dd" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                50
+              </button>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">10</a></li>
+                <li><a class="dropdown-item" href="#">20</a></li>
+                <li><a class="dropdown-item" href="#">30</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="inner-addon right-addon search_md ms-2 me-2">
+            <i class="bi bi-search"></i>
+            <input type="text" class="form-control" placeholder="Search" />
+          </div>
+          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+            <span><i class="bi bi-person-plus"></i></span> Assign
+          </button>
+
+
+        </div>
+      </div>
+      <div class="all-leads">
+        <div class="table-wrapper mt-3">
+          <table id="tb-border-radius" class="table">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Source</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Email</th>
+                <th>Phone Number</th>
+                <th>Registered Date</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  <div class="form-check remove-padding">
+                    <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault2">
+                    <label class="form-check-label" for="flexCheckDefault2">
+                    </label>
+                  </div>
+                </td>
+                <td>E-Commerce</td>
+                <td>Adam</td>
+                <td>Pinto</td>
+                <td>xyz@gmail.com</td>
+                <td>83647 63752</td>
+                <td>98637 77362</td>
+              </tr>
+
+
+            </tbody>
+          </table>
+
+
+        </div>
+
+        <div class="fo-flx-center">
+          <h6>Showing 50 of 200</h6>
+          <nav aria-label="Page navigation example">
+
+            <ul class="pagination justify-content-end">
+              <li class="page-item">
+                <a class="page-link"> <span><i class="bi bi-chevron-left"></i></span> Previous</a>
+              </li>
+              <li class="page-item active"><a class="page-link" href="#">1</a></li>
+              <li class="page-item"><a class="page-link" href="#">2</a></li>
+              <li class="page-item"><a class="page-link" href="#">3</a></li>
+              <li class="page-item">
+                <a class="page-link" href="#">Next <span><i class="bi bi-chevron-right"></i></span></a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+
+      <!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="exampleModalLabel">Assign Executive</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body form-group md-padding">
+                <div class="mb-3">
+                    <label for="exampleFormControlTextarea1" class="form-label" style="font-size: 14px;">Choose Executive</label>
+                    <select class="form-select" aria-label="Default select example">
+                        <option selected>Select</option>
+                        <option value="1">One</option>
+                        <option value="2">Two</option>
+                        <option value="3">Three</option>
+                    </select>
+                </div>
+
+            </div>
+      <div class="modal-footer">
+        
+        <button type="button" class="btn btn-primary">Assign</button>
+      </div>
+    </div>
+  </div>
+</div>
+    </div>
+
+  </div>
+  <div class="tab-pane fade " id="home" role="tabpanel" aria-labelledby="home-tab">
     <div class="row">
       <div class="col-md-4">
         <div class="offcanvas offcanvas-start mobile" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
@@ -2237,6 +2358,8 @@
     </div>
   </div>
 </div>
+
+
 <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">2</div>
 <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">3</div>
 </div>
@@ -2250,42 +2373,42 @@
   </div>
   <div class="offcanvas-body">
     <div class="custom-form ">
-    <div class="form-group  mt-2">
-          <label for="">Requested by</label>
-          <input type="text" class="shadow-cs">
-        </div>
-        <div class="d-flex radio-custom mt-4">
+      <div class="form-group  mt-2">
+        <label for="">Requested by</label>
+        <input type="text" class="shadow-cs">
+      </div>
+      <div class="d-flex radio-custom mt-4">
 
-<div class="form-check me-3 inp_holder">
-  <input class="form-check-input colum" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
-  <label class="form-check-label colum" for="flexRadioDefault1"></label>
-  <div class="title">Approve</div>
-  </div>
-  <div class="form-check me-3 inp_holder">
-  <input class="form-check-input colum" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
-  <label class="form-check-label colum" for="flexRadioDefault2"></label>
-  <div class="title">Reject</div>
-  </div>
-<div class="form-check inp_holder">
-  <input class="form-check-input colum" type="radio" name="flexRadioDefault" id="flexRadioDefault3">
-  <label class="form-check-label colum" for="flexRadioDefault3"></label>
-  <div class="title">Hold</div>
-  </div>
-  <div class="form-check inp_holder">
-  <input class="form-check-input colum" type="radio" name="flexRadioDefault" id="flexRadioDefault4">
-  <label class="form-check-label colum" for="flexRadioDefault4"></label>
-  <div class="title">Redo</div>
-  </div>
-  </div>
-      
-        <div class="form-group">
-          <label for="">Comments</label>
-          <textarea class="w-100" name="" id="" cols="30" rows="10"></textarea>
+        <div class="form-check me-3 inp_holder">
+          <input class="form-check-input colum" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+          <label class="form-check-label colum" for="flexRadioDefault1"></label>
+          <div class="title">Approve</div>
         </div>
-       
-      
+        <div class="form-check me-3 inp_holder">
+          <input class="form-check-input colum" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+          <label class="form-check-label colum" for="flexRadioDefault2"></label>
+          <div class="title">Reject</div>
+        </div>
+        <div class="form-check inp_holder">
+          <input class="form-check-input colum" type="radio" name="flexRadioDefault" id="flexRadioDefault3">
+          <label class="form-check-label colum" for="flexRadioDefault3"></label>
+          <div class="title">Hold</div>
+        </div>
+        <div class="form-check inp_holder">
+          <input class="form-check-input colum" type="radio" name="flexRadioDefault" id="flexRadioDefault4">
+          <label class="form-check-label colum" for="flexRadioDefault4"></label>
+          <div class="title">Redo</div>
+        </div>
+      </div>
 
-  </div>
+      <div class="form-group">
+        <label for="">Comments</label>
+        <textarea class="w-100" name="" id="" cols="30" rows="10"></textarea>
+      </div>
+
+
+
+    </div>
   </div>
   <div class="offcanvas-footer fil-pd">
     <button type="button" class="btn btn-secondary sec-custom">Cancel</button>
