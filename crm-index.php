@@ -42,7 +42,7 @@
   <div class="tab-pane fade show active" id="newlead" role="tabpanel" aria-labelledby="newlead-tab">
     <div class="card card-pd">
       <div class="card-heading fo-flx-sb-bl">
-        <h4>Stock</h4>
+        <h4>All Leads <span>07</span></h4>
         <div class="right d-flex" style="white-space: nowrap;">
           <div class="form-group ms-2 d-flex align-center">
             <h6 class="mr1" style="margin-bottom: 0;">Show</h6>
@@ -127,32 +127,32 @@
       </div>
 
       <!-- Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h1 class="modal-title fs-5" id="exampleModalLabel">Assign Executive</h1>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body form-group md-padding">
-                <div class="mb-3">
-                    <label for="exampleFormControlTextarea1" class="form-label" style="font-size: 14px;">Choose Executive</label>
-                    <select class="form-select" aria-label="Default select example">
-                        <option selected>Select</option>
-                        <option value="1">One</option>
-                        <option value="2">Two</option>
-                        <option value="3">Three</option>
-                    </select>
-                </div>
+      <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h1 class="modal-title fs-5" id="exampleModalLabel">Assign Executive</h1>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body form-group md-padding">
+              <div class="mb-3">
+                <label for="exampleFormControlTextarea1" class="form-label" style="font-size: 14px;">Choose Executive</label>
+                <select class="form-select" aria-label="Default select example">
+                  <option selected>Select</option>
+                  <option value="1">One</option>
+                  <option value="2">Two</option>
+                  <option value="3">Three</option>
+                </select>
+              </div>
 
             </div>
-      <div class="modal-footer">
-        
-        <button type="button" class="btn btn-primary">Assign</button>
+            <div class="modal-footer">
+
+              <button type="button" class="btn btn-primary">Assign</button>
+            </div>
+          </div>
+        </div>
       </div>
-    </div>
-  </div>
-</div>
     </div>
 
   </div>

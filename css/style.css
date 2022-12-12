@@ -943,7 +943,7 @@ button.btn.btn-secondary.bg-drk-blue span img {
 .crm-cd-header h4 {
   font-size: 16px;
     color: #4B4B5A;
-    font-weight: 600;
+    font-weight: 700;
     margin-bottom: 0;
 }
 .crm-cd-header h6 {
@@ -2011,4 +2011,87 @@ div#newlead .card-heading .right {
 }
 .modal-footer {
   padding: 15px 30px !important;
+}
+ h4 span {
+  background: #eff2f6;
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-size: 13px;
+  font-weight: 600;
+  color: #7481A7;
+  margin-left: 5px;
+}
+
+/* My profile css starts here */
+
+.my-profile .db-top-wrapper .profile-sec .image-avatar img {
+  width: 100% !important;
+  height: 100%;
+}
+.my-profile .db-top-wrapper .profile-sec .image-avatar {
+  width: 80px;
+  height: 80px;
+}
+.db-top-wrapper {
+  position: relative;
+}
+.icon-float i {
+  font-size: 14px;
+  color: #5b6ea5;
+}
+.icon-float {
+  background: #e9f0fa;
+  padding: 4px 8px;
+  position: absolute;
+  right: 0;
+  border-radius: 5px;
+  top: 0;
+  cursor: pointer;
+}
+.my-profile .db-top-wrapper .left .content h3{
+  font-size: 20px !important;
+  text-align: left;
+  font-weight: 500;
+}
+.my-profile .db-top-wrapper .left .content p{
+  font-size: 13px !important;
+  text-align: left;
+  font-weight: 300;
+  line-height: 15px;
+}
+.eyr {
+  position: absolute;
+  top: 32px;
+  right: 17px;
+}
+.form-group {
+  position: relative;
+}
+.eyr i {
+  font-size: 14px;
+}
+.address-list {
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+td.tb-st-wi {
+  width: 200px;
+}
+.address-list .icon-float {
+  right: 20px;
+  top: 20px;
+}
+.address-list tbody tr td {
+  padding: 5px !important;
+}
+.ad .form-group {
+  display: flex;
+  flex-direction: column;
+}
+.inner-frm {
+  display: flex;
+}
+.inner-frm .fm-st-wi {
+  width: 200% !important;
 }
