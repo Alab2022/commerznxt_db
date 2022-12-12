@@ -50,10 +50,17 @@
                           <input type="text" class="shadow-cs">
                         </div>
                         <div class="form-group mb-2">
-                          <label for="">Email/Fax</label>
+                          
                           <div class="inner-frm">
-                          <input type="text" class="shadow-cs fm-st-wi me-2">
+                          <div>
+                          <label for="">Email</label>
+                          <input type="text" class="shadow-cs me-2">
+                          </div>
+
+                          <div>
+                          <label for="">Fax</label>
                           <input type="text" class="shadow-cs">
+                          </div>
                           </div>
                         </div>
                   </div>

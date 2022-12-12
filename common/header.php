@@ -51,9 +51,18 @@
 
           </ul>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="my-sales-analysis.php">Sales Analysis</a>
+        <li class="nav-item inner dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Sales <span><svg xmlns="http://www.w3.org/2000/svg" width="8.015" height="4.758" viewBox="0 0 8.015 4.758">
+                <path id="_9042707_nav_arrow_down_icon_1_" data-name="9042707_nav_arrow_down_icon (1)" d="M6,9l2.947,2.947L11.894,9" transform="translate(-4.939 -7.939)" fill="none" stroke="#7d7d7d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+              </svg></a>
+          <ul class="dropdown-menu">
+          <li><a class="nav-link" href="my-sales-analysis.php">Sales Analysis</a></li>
+            <li><a class="dropdown-item" href="s-activity.php">Sales Activity</a></li>
+            <li><a class="dropdown-item" href="customerperformance.php">Customer Performance</a></li>
+
+          </ul>
         </li>
+        
         <li class="nav-item">
           <a class="nav-link" href="user-management.php">User Management</a>
         </li>

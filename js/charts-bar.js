@@ -350,3 +350,43 @@ $(document).ready(function() {
     });
   });
   
+  $(document).ready(function() {
+    Highcharts.chart('sales-activity-chart', {
+      chart: {
+        type: 'bar'
+      },
+      title: {
+        text: ''
+      },
+      xAxis: {
+        categories: ['Adam', 'Loki', 'Stark', 'Steve', 'Johny']
+      },
+      yAxis: {
+        min: 0,
+        title: {
+          text: ''
+        }
+      },
+      legend: {
+        reversed: true
+      },
+      plotOptions: {
+        series: {
+          stacking: 'normal'
+        }
+      },
+      series: [
+        {
+          name: 'Acheive',
+          data: [5, 3, 12, 6, 11],
+          color: '#63719C'
+        },
+        {
+        name: 'Target',
+        data: [4, 4, 6, 15, 12],
+        color: '#BC7D85'
+      },  ]
+    });
+    });
+
+  
