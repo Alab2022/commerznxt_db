@@ -257,7 +257,7 @@ $(document).ready(function() {
       xAxis: {
         categories: ['Prod1', 'Prod2', 'Prod3', 'Prod4', 'Prod5'],
         labels: {
-          x: -10,
+          x:-10,
           rotation:0,
         }
       },
@@ -359,10 +359,12 @@ $(document).ready(function() {
         text: ''
       },
       xAxis: {
-        categories: ['Adam', 'Loki', 'Stark', 'Steve', 'Johny']
+        categories: ['Adam', 'Loki', 'Stark', 'Steve', 'Johny'],
+        height:"200"
       },
       yAxis: {
         min: 0,
+        height:"200",
         title: {
           text: ''
         }
@@ -384,7 +386,7 @@ $(document).ready(function() {
         {
         name: 'Target',
         data: [4, 4, 6, 15, 12],
-        color: '#BC7D85'
+        color: '#63719C'
       },  ]
     });
     });
