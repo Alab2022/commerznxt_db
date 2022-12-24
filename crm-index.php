@@ -1067,9 +1067,33 @@
                       <div class="left">
                         <div class="content-1 mb-3">
                           <h5 class="mb-2">Payment Method</h5>
-                          <h6> <strong>Paypal:</strong> payment@company.com <br>
-                            <strong> Card ayment we accept:</strong> Visa, Mastercard
-                          </h6>
+                          <div class="payment-method">
+                          <div class="form-check">
+                            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                            <label class="form-check-label" for="flexRadioDefault1">
+                              Cash
+                            </label>
+                          </div>
+                          <div class="form-check">
+                            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                            <label class="form-check-label" for="flexRadioDefault1">
+                              Cheque
+                            </label>
+                          </div>
+                          <div class="form-check">
+                            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                            <label class="form-check-label" for="flexRadioDefault1">
+                              Bank Transfer
+                            </label>
+                          </div>
+                          <div class="form-check">
+                            <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                            <label class="form-check-label" for="flexRadioDefault1">
+                              Bank Transfer
+                            </label>
+                          </div>
+  
+                          </div>
                         </div>
                         <div class="content-2">
                           <h5 class="mb-2">Terms & Conditions</h5>

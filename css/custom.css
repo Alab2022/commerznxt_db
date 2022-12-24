@@ -1211,4 +1211,10 @@ ul.navbar-nav.main .nav-item.inner a.nav-link {
 @media (max-width: 1399.98px) { ... }
 
 
-
+.payment-method .form-check{
+  padding-left: 0px!important;
+}
+.payment-method{
+  margin-top:10px;
+  display: flex;
+}
